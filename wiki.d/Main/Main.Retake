@@ -1,21 +1,33 @@
 version=pmwiki-2.2.38 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36 FirePHP/4Chrome
+agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
 author=Admin
 cauthor=Admin
 charset=UTF-8
 csum=
 ctime=1315101317
-host=121.229.9.178
+host=202.38.153.2
 name=Main.Retake
 passwdattr=@lock
 passwddelete=@lock
 passwdedit=@lock
 passwdread=$1$a8L.7Myl$WaSC6bQz00CtVskyvknQE/
 passwdupload=$1$..iUagwa$1VnZVTu9veGAp2EbTs8UU1
-rev=6
+rev=10
 targets=Profiles.Admin,Profiles.KPX
-text=(:input form "http://direct.danmaku.us/Main/Retake?action=nekomimimode" POST :)%0a||border=0 %0a||Nico号: ||(:input text vid:)    ||%0a||(:input hidden xVerify "e6a6e248-d783-4ffd-a031-1bfd4382f62b":) ||(:input submit value="提交":) ||%0a||确认不支持： ||N/A ||%0a||禁止泄露密码.最长处理时间30秒||%0a(:input end:)%0a%0a(:messages:)%0a%0a(:newattachlist:)%0a%0a%0a[[~Admin]] 2014 年 01 月 07 日, 22:15  买了个VIP，预计到2月5号。各位加油。%0a[[~KPX]] 2011 年 01 月 10 日, 09:45 下午 支持nm视频 并会根据服务器返回结果尝试修改后缀%0a[[~KPX]] 2011 年 01 月 12 日, 05:44 上午 增加Debug模式(隐藏)%0a[[~Admin]] 2011 年 02 月 28 日, 09:58 下午 减少处理时间到30秒(服务器CPU限制OTL)%0a[[~Admin]] 2011 年 02 月 28 日, 10:02 下午 现在没有下载完成的文件会添加IMCOMPLETE_前缀%0a[[~Admin]] 2011 年 02 月 28 日, 10:05 下午 返回日志由HTML变更为text/plain  下载完成后不会自动跳转%0a[[~Admin]] 2011 年 03 月 08 日, 12:44 下午 会自动删掉vid里面的空格。%0a[[~Admin]] 2011 年 08 月 28 日, 00:46  转移处理网址到direct.danmaku.us
-time=1389104112
+text=(:input form "http://direct.danmaku.us/Main/Retake?action=nekomimimode" POST :)了%0a||border=0 %0a||Nico号: ||(:input text vid:)    ||%0a||(:input hidden xVerify "e6a6e248-d783-4ffd-a031-1bfd4382f62b":) ||(:input submit value="提交":) ||%0a||确认不支持： ||N/A ||%0a||  ||%0a(:input end:)%0a%0a(:messages:)%0a%0a(:newattachlist:)%0a%0a[[~Admin]] 2015 年 03 月 01 日, 20:57  感谢my@l0li.com提供账号%0a[[~Admin]] 2014 年 02 月 07 日, 21:16  你能忍么，说好了5号到期居然还能用？%0a[[~Admin]] 2014 年 01 月 07 日, 22:15  买了个VIP，预计到2月5号。%0a[[~KPX]] 2011 年 01 月 10 日, 09:45 下午 支持nm视频 并会根据服务器返回结果尝试修改后缀%0a[[~KPX]] 2011 年 01 月 12 日, 05:44 上午 增加Debug模式(隐藏)%0a[[~Admin]] 2011 年 02 月 28 日, 09:58 下午 减少处理时间到30秒(服务器CPU限制OTL)%0a[[~Admin]] 2011 年 02 月 28 日, 10:02 下午 现在没有下载完成的文件会添加IMCOMPLETE_前缀%0a[[~Admin]] 2011 年 02 月 28 日, 10:05 下午 返回日志由HTML变更为text/plain  下载完成后不会自动跳转%0a[[~Admin]] 2011 年 03 月 08 日, 12:44 下午 会自动删掉vid里面的空格。%0a[[~Admin]] 2011 年 08 月 28 日, 00:46  转移处理网址到direct.danmaku.us
+time=1425214658
+author:1425214658=Admin
+diff:1425214658:1424866714:=1c1,2%0a%3c (:input form "http://direct.danmaku.us/Main/Retake?action=nekomimimode" POST :)了%0a---%0a> (:input form "http://direct.danmaku.us/Main/Retake?action=nekomimimode" POST :)%0a> 没了没了，Nico那边数据泄漏封掉了一批号，手头在用的也在范围内，于是就没了%0a2a4%0a> || ||%0a13d14%0a%3c [[~Admin]] 2015 年 03 月 01 日, 20:57  感谢my@l0li.com提供账号%0a
+host:1425214658=202.38.153.2
+author:1424866714=Admin
+diff:1424866714:1424866662:=2d1%0a%3c 没了没了，Nico那边数据泄漏封掉了一批号，手头在用的也在范围内，于是就没了%0a4d2%0a%3c || ||%0a8c6%0a%3c ||  ||%0a---%0a> ||没了没了，Nico那边数据泄漏封掉了一批号，手头在用的也在范围内，于是就没了||%0a
+host:1424866714=221.216.154.157
+author:1424866662=Admin
+diff:1424866662:1391778961:=6c6%0a%3c ||没了没了，Nico那边数据泄漏封掉了一批号，手头在用的也在范围内，于是就没了||%0a---%0a> ||禁止泄露密码.最长处理时间30秒||%0a
+host:1424866662=221.216.154.157
+author:1391778961=Admin
+diff:1391778961:1389104112:=13,14c13,14%0a%3c [[~Admin]] 2014 年 02 月 07 日, 21:16  你能忍么，说好了5号到期居然还能用？%0a%3c [[~Admin]] 2014 年 01 月 07 日, 22:15  买了个VIP，预计到2月5号。%0a---%0a> %0a> [[~Admin]] 2014 年 01 月 07 日, 22:15  买了个VIP，预计到2月5号。各位加油。%0a
+host:1391778961=123.114.113.150
 author:1389104112=Admin
 diff:1389104112:1387810244:=14c14,15%0a%3c [[~Admin]] 2014 年 01 月 07 日, 22:15  买了个VIP，预计到2月5号。各位加油。%0a---%0a> VIP过期了。想冲的联系本人。%0a> %0a
 host:1389104112=121.229.9.178
