@@ -1,0 +1,4603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1379018405" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>作词：蝶々P 作曲：蝶々P 编曲：蝶々P </text>
+	<attr id="0" playtime="3.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1219986447" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>字幕:kagemi</text>
+	<attr id="0" playtime="3.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="755831556" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>歌:neru</text>
+	<attr id="0" playtime="3.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="285837280" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>心拍数#0822</text>
+	<attr id="0" playtime="3.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="328405776" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+█
+█
+█
+█
+█
+　
+　
+　
+　
+　</text>
+	<attr id="0" playtime="6.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1351245844" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+　█
+　
+　
+　
+　
+　
+　
+　
+　</text>
+	<attr id="0" playtime="6.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="980146504" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+　█　
+　
+　
+　
+　
+　
+　
+　
+　</text>
+	<attr id="0" playtime="6.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="944254648" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+　
+　　█　　
+　
+　
+　
+　
+　
+　
+　</text>
+	<attr id="0" playtime="6.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="270550953" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+　
+　
+　　　█　　　
+　
+　
+　
+　
+　
+　</text>
+	<attr id="0" playtime="6.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="540326440" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　　　　█　　　　
+　　　　█
+　　　　█
+　　　　█
+　　　　█
+　
+　
+　
+　
+　</text>
+	<attr id="0" playtime="6.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2115843791" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+█
+█
+█
+█
+█
+　
+　
+　
+　</text>
+	<attr id="0" playtime="8.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="378377449" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+　█　
+
+　█
+
+　█
+　
+　
+　</text>
+	<attr id="0" playtime="8.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1009960053" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+　　█　　
+
+　　█
+
+　　█</text>
+	<attr id="0" playtime="8.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1726479378" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+　　　█　　　
+
+　　　█　　　
+
+　　　█
+　
+　
+　
+　</text>
+	<attr id="0" playtime="8.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1678655391" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+█
+█
+█
+█
+█
+█
+█
+　
+　
+　</text>
+	<attr id="0" playtime="10" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="723106411" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　█　
+
+
+　█　
+　█　
+　
+　
+　
+　
+　</text>
+	<attr id="0" playtime="10" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="514451961" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　　█　　
+
+
+　　█　　
+
+　　█　　
+　
+　
+　
+　</text>
+	<attr id="0" playtime="10" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="692413003" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+　　　█　　　
+　　　█
+　
+　
+　
+　　　█
+　
+　
+　</text>
+	<attr id="0" playtime="10" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="831496039" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+█
+█
+█
+█
+█
+　
+　
+　
+　
+</text>
+	<attr id="0" playtime="11.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="959178264" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　█　
+　
+　
+　</text>
+	<attr id="0" playtime="11.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="855347038" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　　█　　
+　
+　
+　</text>
+	<attr id="0" playtime="11.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1328615460" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　　　█　　　
+　
+　
+　</text>
+	<attr id="0" playtime="11.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1584807713" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　
+　　　　█　　　　
+　　　　█
+　　　　█
+　　　　█
+　　　　█
+　
+　
+　
+　</text>
+	<attr id="0" playtime="11.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="285491025" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+
+
+█████</text>
+	<attr id="0" playtime="21.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1109810522" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+
+
+在我的心脏</text>
+	<attr id="0" playtime="21.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1088042804" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+
+　█████
+██████</text>
+	<attr id="0" playtime="24.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1746772000" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+
+　在我的心脏
+停下的时候呢</text>
+	<attr id="0" playtime="24.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1897289662" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+
+　█████
+██████</text>
+	<attr id="0" playtime="26.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="434426333" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+
+　在我的心脏
+停下的时候呢</text>
+	<attr id="0" playtime="26.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="125829776" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+
+　　██████
+████████</text>
+	<attr id="0" playtime="30.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="91616659" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+
+　　停下的时候呢
+我一定是觉得已经</text>
+	<attr id="0" playtime="30.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="636882205" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+
+█████████
+　　　　█████</text>
+	<attr id="0" playtime="33.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="730250917" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+充分享受过这个世界
+　　　　才结束的吧</text>
+	<attr id="0" playtime="33.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="331953257" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+███████</text>
+	<attr id="0" playtime="38.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1888827593" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　　　
+
+
+
+
+
+
+
+
+
+
+彷彿没做完的事</text>
+	<attr id="0" playtime="38.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="478963232" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+
+　███████
+██████</text>
+	<attr id="0" playtime="41" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1375459489" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　　　
+
+
+
+
+
+
+
+
+
+　彷彿没做完的事
+几乎都没有般</text>
+	<attr id="0" playtime="41" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1514126041" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+　██████
+███████</text>
+	<attr id="0" playtime="44.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2119470043" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+　
+
+
+
+
+
+
+
+
+　几乎都没有般
+希望能在你身旁</text>
+	<attr id="0" playtime="44.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2069666296" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+
+　███████
+　</text>
+	<attr id="0" playtime="48.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="667624652" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+
+　希望能在你身旁</text>
+	<attr id="0" playtime="48.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="415582499" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　希望能在你身旁
+　</text>
+	<attr id="0" playtime="48.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="206026235" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="48.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="260063620" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+一　　　　　　一</text>
+	<attr id="0" playtime="48.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="804294835" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="49.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1335985169" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+直一　　　　一直</text>
+	<attr id="0" playtime="49.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1243185863" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="50.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1360630793" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+笑直一　　一直笑</text>
+	<attr id="0" playtime="50.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1723319652" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="51.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1817821761" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+着笑直一一直笑着</text>
+	<attr id="0" playtime="51.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2051352845" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="52.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="468574727" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　着笑直直笑着</text>
+	<attr id="0" playtime="52.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1872905342" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="53.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2131656096" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　着笑笑着</text>
+	<attr id="0" playtime="53.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1029090938" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="53.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="997652085" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　　着着</text>
+	<attr id="0" playtime="53.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1837248000" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="54.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="756009721" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　　　　　仍然</text>
+	<attr id="0" playtime="55.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1739268628" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+　
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="56.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="181668936" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　　　仍然想在</text>
+	<attr id="0" playtime="56.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1580485058" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="56.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2109571505" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+　仍然想在这颗心</text>
+	<attr id="0" playtime="56.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1729872372" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+█
+████████</text>
+	<attr id="0" playtime="57" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="533810989" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+仍
+然想在这颗心跳动</text>
+	<attr id="0" playtime="57" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1273855979" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+███
+████████</text>
+	<attr id="0" playtime="57.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1943826119" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+想然仍
+在这颗心跳动的时</text>
+	<attr id="0" playtime="57.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="145862072" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+█████
+████████</text>
+	<attr id="0" playtime="58" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="182210066" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+这在想然仍
+颗心跳动的时间内</text>
+	<attr id="0" playtime="58" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="235758586" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+　
+
+
+
+
+
+
+
+████████
+████████</text>
+	<attr id="0" playtime="59.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="320303936" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　
+
+
+
+
+
+
+
+
+
+跳心颗这在想然仍
+动的时间内守护你</text>
+	<attr id="0" playtime="59.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1376183974" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+███████
+███████</text>
+	<attr id="0" playtime="63.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="507630606" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　　　
+
+
+
+
+
+
+
+
+
+　　　　　只要
+好了</text>
+	<attr id="0" playtime="63.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="44060462" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+　
+
+
+
+
+
+
+
+
+███████
+███████</text>
+	<attr id="0" playtime="64.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1779683309" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+　　　只要以那
+就好了</text>
+	<attr id="0" playtime="64.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="563039529" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+███████
+███████</text>
+	<attr id="0" playtime="64.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1648601549" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　
+　
+
+
+
+
+
+
+
+
+　　只要以那件
+意义就好了</text>
+	<attr id="0" playtime="64.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1284316596" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+███████
+███████</text>
+	<attr id="0" playtime="65.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="916928312" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　　　　　　
+　
+
+
+
+
+
+
+
+
+　只要以那件事
+存意义就好了</text>
+	<attr id="0" playtime="65.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="601443017" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+███████
+███████</text>
+	<attr id="0" playtime="66.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="720909902" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　
+　
+
+
+
+
+
+
+
+
+只要以那件事为
+生存意义就好了</text>
+	<attr id="0" playtime="66.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="437278307" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███　　███</text>
+	<attr id="0" playtime="71.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1571499854" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+再一个　　再一个</text>
+	<attr id="0" playtime="71.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1649348625" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███　　███</text>
+	<attr id="0" playtime="71.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1263001689" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+再一个　　再一个</text>
+	<attr id="0" playtime="72" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1498946614" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███　　███</text>
+	<attr id="0" playtime="72.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1408945229" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+再一个　　再一个</text>
+	<attr id="0" playtime="72.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="947208690" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███</text>
+	<attr id="0" playtime="72.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1955475569" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+再一个</text>
+	<attr id="0" playtime="72.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="697967249" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　　　　　
+　
+
+
+
+
+
+
+
+
+
+　　　　　███</text>
+	<attr id="0" playtime="73" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="388542816" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+再一个　　再一个</text>
+	<attr id="0" playtime="73.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="104060013" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███　　███</text>
+	<attr id="0" playtime="73.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1418221445" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+再一个　　再一个</text>
+	<attr id="0" playtime="73.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1782973000" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="75.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1056543262" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　　相同</text>
+	<attr id="0" playtime="75.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="135313853" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　着相同的</text>
+	<attr id="0" playtime="75.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1592721478" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+　数着相同的眼</text>
+	<attr id="0" playtime="76.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1783435790" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="76.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="614835858" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+的数着相同的眼泪</text>
+	<attr id="0" playtime="76.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1293468737" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+██
+　</text>
+	<attr id="0" playtime="80" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1641339788" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+我们
+　</text>
+	<attr id="0" playtime="80" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="112457840" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　█</text>
+	<attr id="0" playtime="80.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1064745418" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　又</text>
+	<attr id="0" playtime="80.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="758638430" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+██　██
+　　</text>
+	<attr id="0" playtime="81.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1662495060" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+我们　再度
+　</text>
+	<attr id="0" playtime="81.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1579952832" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+　
+　　█　　███</text>
+	<attr id="0" playtime="81.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1519086710" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　又　　了解了</text>
+	<attr id="0" playtime="81.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="287066250" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+██　██　　　██
+　　█　　███</text>
+	<attr id="0" playtime="82.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1491050773" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+我们　再度　　　彼此
+　　又　　了解了</text>
+	<attr id="0" playtime="82.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1180923608" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>            </text>
+	<attr id="0" playtime="10" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1163190418" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>                                                            </text>
+	<attr id="0" playtime="13.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="153741994" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+█
+█
+█
+█　
+█
+█
+█　
+█　
+　</text>
+	<attr id="0" playtime="87.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2138786252" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+█
+█
+　
+　
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="87.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1618743535" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+动
+声
+
+
+
+
+　</text>
+	<attr id="0" playtime="87.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2087215126" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+　
+
+
+动
+声
+　
+　
+
+
+　</text>
+	<attr id="0" playtime="87.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="106370810" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+跳
+动
+声
+传
+
+
+
+　</text>
+	<attr id="0" playtime="88" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="304590723" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+的
+跳
+动
+声
+传
+达
+
+
+　</text>
+	<attr id="0" playtime="88.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1332377620" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+大
+的
+跳
+动
+声
+传
+达
+来
+
+　</text>
+	<attr id="0" playtime="88.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1888428693" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+█
+█
+█　
+█　
+█
+█
+█　
+█　
+█
+█
+　</text>
+	<attr id="0" playtime="89.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2040776317" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+巨
+大
+的
+跳
+动
+声
+传
+达
+来
+的
+　</text>
+	<attr id="0" playtime="89.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="529598639" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+███████████</text>
+	<attr id="0" playtime="91.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1692769085" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　　　　与</text>
+	<attr id="0" playtime="91.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1508864665" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　　声响与流泄</text>
+	<attr id="0" playtime="92" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1043831711" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+　　的声响与流泄的</text>
+	<attr id="0" playtime="92.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="543713510" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███████████</text>
+	<attr id="0" playtime="92.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1841281742" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+重叠的声响与流泄的思念</text>
+	<attr id="0" playtime="92.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1003922287" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███████████</text>
+	<attr id="0" playtime="95.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="275403825" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+重叠的声响与流泄的思念</text>
+	<attr id="0" playtime="95.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1785381795" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+██　　　　　　　██</text>
+	<attr id="0" playtime="95.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1249777905" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+约　　　　　　　　　吧</text>
+	<attr id="0" playtime="95.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1480409151" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███　　　　　███</text>
+	<attr id="0" playtime="95.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="551411261" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+约定　　　　　　　开吧</text>
+	<attr id="0" playtime="95.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="592846934" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████　　　████</text>
+	<attr id="0" playtime="96.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="984469015" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+约定再　　　　　分开吧</text>
+	<attr id="0" playtime="96.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2068885770" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+█████　█████</text>
+	<attr id="0" playtime="96.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="80936374" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+约定再也　　　要分开吧</text>
+	<attr id="0" playtime="96.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1727198006" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███████████</text>
+	<attr id="0" playtime="96.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="499750913" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+　约定再也不要分开吧</text>
+	<attr id="0" playtime="96.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1685675115" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+█████████████</text>
+	<attr id="0" playtime="99.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="90246988" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+希望　约定再也不要分开吧</text>
+	<attr id="0" playtime="99.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1755514247" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+█████████████</text>
+	<attr id="0" playtime="99.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1418611447" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+希望无论　约定再也不要分开</text>
+	<attr id="0" playtime="99.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="549277812" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+█████████████</text>
+	<attr id="0" playtime="99.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1637811551" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+希望无论何时　约定再也不要</text>
+	<attr id="0" playtime="99.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1305891737" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+█████████████</text>
+	<attr id="0" playtime="100.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1604454856" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+
+希望无论何时都不　约定再也</text>
+	<attr id="0" playtime="100.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="261220903" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+
+█████████████</text>
+	<attr id="0" playtime="100.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="44430481" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+希望无论何时都不要让　约定</text>
+	<attr id="0" playtime="100.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="764597294" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+█████████████</text>
+	<attr id="0" playtime="101" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1017251175" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+希望无论何时都不要让你寂寞</text>
+	<attr id="0" playtime="101" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="279101792" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+ 
+█
+█
+█　
+█　
+　
+　
+　
+　
+　
+　
+　</text>
+	<attr id="0" playtime="119.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="472578050" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+我
+
+
+
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="119.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1208489542" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+我
+的
+
+
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="120.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1491658324" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+我
+的
+心
+　
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="120.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1147285960" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+█
+█
+█　
+█　
+　
+
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="121" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1097292808" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+█
+█
+█　
+█　
+　
+
+
+
+
+
+
+
+　　</text>
+	<attr id="0" playtime="121" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1745371935" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+█
+█
+█　
+█　
+　
+　
+　
+　
+　
+　</text>
+	<attr id="0" playtime="121" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="463016661" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+我
+的
+心
+脏</text>
+	<attr id="0" playtime="121" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1401343956" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+我
+的
+心
+脏
+　
+　
+　
+　
+　
+　
+　</text>
+	<attr id="0" playtime="121" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1775405415" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+
+
+
+
+
+
+
+
+█
+█
+█
+█</text>
+	<attr id="0" playtime="121" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1635634038" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+在</text>
+	<attr id="0" playtime="123.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="933918085" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+█
+██　</text>
+	<attr id="0" playtime="124" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="73473476" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+　
+
+
+
+
+
+
+一
+在一</text>
+	<attr id="0" playtime="124" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="630708854" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+█
+█
+███</text>
+	<attr id="0" playtime="124.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1849189617" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+分
+一
+在一分</text>
+	<attr id="0" playtime="124.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="623194089" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+█
+█
+█
+████</text>
+	<attr id="0" playtime="124.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="879878950" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+钟
+分
+一
+在一分钟</text>
+	<attr id="0" playtime="124.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="445291035" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+█
+█
+█
+█　
+█████</text>
+	<attr id="0" playtime="125.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1461975166" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+内
+钟
+分
+一
+在一分钟内</text>
+	<attr id="0" playtime="125.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1813854911" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+█
+█
+█
+█　
+█████</text>
+	<attr id="0" playtime="127.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1465278557" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+█
+█
+█
+█　
+█　
+██████</text>
+	<attr id="0" playtime="127.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="551919264" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+次
+　
+　
+　
+　
+　　　　　次</text>
+	<attr id="0" playtime="127.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1247950264" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+　
+　
+　
+　
+次
+０
+７
+　
+　
+　　　７０次</text>
+	<attr id="0" playtime="128" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1020547147" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+　
+　
+　
+　
+█
+█
+█
+█　
+█　
+██████</text>
+	<attr id="0" playtime="128.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="712797990" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+次
+０
+７
+出
+　
+　　出７０次</text>
+	<attr id="0" playtime="128.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1292291542" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+次
+０
+７
+出
+喊
+　喊出７０次</text>
+	<attr id="0" playtime="128.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1912037912" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+　
+　
+　
+　
+次
+０
+７
+出
+喊
+会喊出７０次</text>
+	<attr id="0" playtime="129.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="348417020" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+　
+　
+　
+　
+█
+█
+█　
+█　
+█
+██████</text>
+	<attr id="0" playtime="129.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="530383646" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+　
+　
+　
+　
+次
+０
+７
+出
+喊
+会喊出７０次</text>
+	<attr id="0" playtime="129.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="16413472" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+██████</text>
+	<attr id="0" playtime="131.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="15821767" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+７０次　「我</text>
+	<attr id="0" playtime="131.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1415650880" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+█
+█
+█
+█　
+█　
+　</text>
+	<attr id="0" playtime="131.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="521424100" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+我
+「
+　
+　
+次
+０
+　</text>
+	<attr id="0" playtime="131.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1594145173" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+█
+█　
+█　
+█　
+█　
+██████</text>
+	<attr id="0" playtime="132.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="725046094" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+　
+　
+　
+█
+活
+正
+我
+「
+　
+次　「我正活</text>
+	<attr id="0" playtime="132.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1767793005" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+█
+█
+█
+█　
+█　
+██████</text>
+	<attr id="0" playtime="132.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1092997484" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+」
+着
+活
+正
+我
+「我正活着」</text>
+	<attr id="0" playtime="132.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="776346817" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="136.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="546369267" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+但是和你在一起时</text>
+	<attr id="0" playtime="136.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1824401691" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+　████████
+████████</text>
+	<attr id="0" playtime="139.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="500578209" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+　但是和你在一起时
+就会稍微加快脚步</text>
+	<attr id="0" playtime="139.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="206037944" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+███████</text>
+	<attr id="0" playtime="144.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1756143602" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+
+喊出１１０次的</text>
+	<attr id="0" playtime="144.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="800852713" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+　　███</text>
+	<attr id="0" playtime="147.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1456928030" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+　　　爱</text>
+	<attr id="0" playtime="147.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="61522698" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+███████</text>
+	<attr id="0" playtime="147.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="696525259" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+喊　我爱你　的</text>
+	<attr id="0" playtime="147.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1270799108" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+████████</text>
+	<attr id="0" playtime="147.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1347943285" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　我　爱　你</text>
+	<attr id="0" playtime="147.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1136615459" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███████</text>
+	<attr id="0" playtime="148.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="198165999" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+我　　爱　　你</text>
+	<attr id="0" playtime="148.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="38744637" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+███
+　
+　</text>
+	<attr id="0" playtime="152.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1702086523" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+仍然想
+　
+　</text>
+	<attr id="0" playtime="152.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1661360973" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+███
+█████████
+　</text>
+	<attr id="0" playtime="154.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="874109815" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+仍然想
+在这颗心跳动的时间
+　</text>
+	<attr id="0" playtime="154.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1248358655" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+███
+█████████
+████</text>
+	<attr id="0" playtime="156.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="649398486" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+仍然想
+在这颗心跳动的时间
+内守护你</text>
+	<attr id="0" playtime="156.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="267513823" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+███
+　
+　</text>
+	<attr id="0" playtime="161.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="496131147" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+只要以</text>
+	<attr id="0" playtime="161.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1146760760" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+只要以
+　
+　</text>
+	<attr id="0" playtime="161.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="426424639" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+███</text>
+	<attr id="0" playtime="161.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="792292074" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+███
+████████
+███</text>
+	<attr id="0" playtime="162.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="277499013" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+只要以
+那件事为生存意义
+　</text>
+	<attr id="0" playtime="162.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1883591832" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████</text>
+	<attr id="0" playtime="162.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1575060751" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　　就</text>
+	<attr id="0" playtime="162.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1707167336" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+████</text>
+	<attr id="0" playtime="165.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1443968899" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+　　就好</text>
+	<attr id="0" playtime="165.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2101590249" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████</text>
+	<attr id="0" playtime="166.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="510082591" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+　就好了</text>
+	<attr id="0" playtime="166.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1815171367" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████</text>
+	<attr id="0" playtime="166.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1160648325" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+就好了</text>
+	<attr id="0" playtime="166.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="294344048" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███</text>
+	<attr id="0" playtime="169.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1617822999" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+再一次</text>
+	<attr id="0" playtime="169.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1465646003" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+　█
+　</text>
+	<attr id="0" playtime="170.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="152362295" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+　一
+　</text>
+	<attr id="0" playtime="170.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1606570806" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+　　█
+　█
+███</text>
+	<attr id="0" playtime="171" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1708300981" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+　　次
+　一
+再一次</text>
+	<attr id="0" playtime="171" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2126182147" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+███
+███
+███</text>
+	<attr id="0" playtime="172.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="311224414" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+　重
+　同
+　意</text>
+	<attr id="0" playtime="172.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1662598353" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+███
+███
+███</text>
+	<attr id="0" playtime="173.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1149369872" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+的重叠
+相同的
+心意</text>
+	<attr id="0" playtime="173.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1089143241" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+██████████</text>
+	<attr id="0" playtime="177.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1744895109" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+我们又再度了解了彼此</text>
+	<attr id="0" playtime="177.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="415124977" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="185.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="407792284" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+如果我和你的相遇</text>
+	<attr id="0" playtime="185.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1965045706" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+　████████
+████████</text>
+	<attr id="0" playtime="188.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="157060253" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+　如果我和你的相遇
+是有什么理由的话</text>
+	<attr id="0" playtime="188.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="205559155" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+██████████</text>
+	<attr id="0" playtime="193.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1691022154" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　　知道是不</text>
+	<attr id="0" playtime="193.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="520619711" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　不知道是不是</text>
+	<attr id="0" playtime="193.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1909633795" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+██████████</text>
+	<attr id="0" playtime="194.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="558263647" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+　算不知道是不是命</text>
+	<attr id="0" playtime="194.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="529584479" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+██████████</text>
+	<attr id="0" playtime="194.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="665295983" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+就算不知道是不是命运</text>
+	<attr id="0" playtime="194.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1431538101" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+████████████</text>
+	<attr id="0" playtime="197" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2143761288" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+就算不知　是不　不是命运</text>
+	<attr id="0" playtime="197" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2038678807" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████████</text>
+	<attr id="0" playtime="197.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="111576722" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+算不知　也是不会　不是命</text>
+	<attr id="0" playtime="197.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1138227510" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████████</text>
+	<attr id="0" playtime="197.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1374466849" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+不知　悦也是不会改　不是</text>
+	<attr id="0" playtime="197.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="914949944" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████████</text>
+	<attr id="0" playtime="198.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="837699101" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+知　喜悦也是不会改变　不</text>
+	<attr id="0" playtime="198.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1713271001" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+████████████</text>
+	<attr id="0" playtime="198.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1410042364" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+
+　份喜悦也是不会改变的　</text>
+	<attr id="0" playtime="198.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="667560113" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+　
+
+
+
+
+
+
+
+
+那份喜悦也是不会改变的喔</text>
+	<attr id="0" playtime="199" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="294037053" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+██████████</text>
+	<attr id="0" playtime="234.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="618026833" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+直到某天你放弃我为止</text>
+	<attr id="0" playtime="234.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1102292443" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="237.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1084094082" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+你还会说出多少次</text>
+	<attr id="0" playtime="237.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1627940545" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+██████
+　</text>
+	<attr id="0" playtime="239.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="502872037" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+「喜欢」呢？
+　</text>
+	<attr id="0" playtime="239.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="568879600" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+████████</text>
+	<attr id="0" playtime="241.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="436177097" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+去感谢能身在这里</text>
+	<attr id="0" playtime="241.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="207552" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+█████
+　</text>
+	<attr id="0" playtime="243.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="690435373" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+的这件事吧
+　</text>
+	<attr id="0" playtime="243.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1921309480" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+█████
+　</text>
+	<attr id="0" playtime="245.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1014881618" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+就为了活着</text>
+	<attr id="0" playtime="245.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="117729316" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+就为了活着
+　</text>
+	<attr id="0" playtime="245.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1799959422" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███████</text>
+	<attr id="0" playtime="245.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1075555712" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+这件事而感谢吧 </text>
+	<attr id="0" playtime="245.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1585822284" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+██████████</text>
+	<attr id="0" playtime="251.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1625227348" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　　跳动声传</text>
+	<attr id="0" playtime="251.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="569319632" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　　的跳动声传达</text>
+	<attr id="0" playtime="252.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="881615464" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+　大的跳动声传达来</text>
+	<attr id="0" playtime="252.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1761360691" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+██████████</text>
+	<attr id="0" playtime="253.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2121555716" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+巨大的跳动声传达来的</text>
+	<attr id="0" playtime="253.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="140119880" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+███████████</text>
+	<attr id="0" playtime="256" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="874788606" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+重叠的声响与流泄的思念</text>
+	<attr id="0" playtime="256" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2121242348" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+█████████</text>
+	<attr id="0" playtime="260" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1886072236" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+约定　　　　　去吧</text>
+	<attr id="0" playtime="260" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="757670517" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+约定一　　　下去吧</text>
+	<attr id="0" playtime="260.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1462335970" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+约定一直　爱下去吧</text>
+	<attr id="0" playtime="260.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="699947780" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+　
+
+
+
+
+
+
+
+
+
+█████████</text>
+	<attr id="0" playtime="261.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1647465013" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　　　　　　　　　　　　　　　　　　　　
+　
+
+
+
+
+
+
+
+
+
+
+约定一直相爱下去吧</text>
+	<attr id="0" playtime="261.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1256402976" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　　█　　　█
+　　　　█
+█　　　　　　　█
+　
+　　█　　　█
+　
+　　　　█
+　
+　
+　</text>
+	<attr id="0" playtime="263.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="127133722" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　　到　　　止
+　　　　直
+心　　　　　　　为
+　
+　　跳　　　止
+　
+　　　　停
+　
+　
+　</text>
+	<attr id="0" playtime="263.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1505180916" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+
+
+█
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="285.8" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="747537053" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+
+　
+
+　█
+　█　
+　█
+　
+　
+　
+　
+　
+　</text>
+	<attr id="0" playtime="285.8" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1854721487" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+　
+　　█　　
+　　█
+　　█
+　　█
+　　█
+　
+　
+
+
+　</text>
+	<attr id="0" playtime="285.8" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1758217632" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+
+　
+
+　　　█　　　
+　　　█
+　　　█
+　　　█
+　　　█
+　
+　
+
+　</text>
+	<attr id="0" playtime="285.8" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1318932986" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+　
+
+
+
+　　　　█　　　　
+　　　　█
+　　　　█
+　　　　█
+　　　　█
+　
+　
+　</text>
+	<attr id="0" playtime="285.8" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1415589448" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+
+
+
+　　　　　█　　　　　
+　　　　　█
+　　　　　█
+　　　　　█
+　　　　　█
+　</text>
+	<attr id="0" playtime="285.8" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="211927398" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+
+
+　　　　　　█　　　　　　
+　　　　　　█
+　　　　　　█
+　　　　　　█
+　　　　　　█
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="285.8" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="264144189" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+
+
+
+　　　　　　　█　　　　　　　
+　　　　　　　█
+　　　　　　　█
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="285.8" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="134358750" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>　
+
+
+
+
+　　　　　　　　█　　　　　　　　
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="285.8" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="844621226" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>要以那件事为生存意义就好</text>
+	<attr id="0" playtime="69.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="537102948" poolid="1" userhash="deadbeef" sendtime="1341930498">
+	<text>字幕：ＫＥＧＥＭＩ</text>
+	<attr id="0" playtime="3.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+</comments>

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="542291854" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>召唤红字君~~</text>
+	<attr id="0" playtime="141.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="568104730" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>修造好像很热啊　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="0.4" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2003558230" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>但是总是失败啊　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="2.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="134202409" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>不错　　什么都做不到（啊哈　　　　　　　</text>
+	<attr id="0" playtime="4.6" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="121997343" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>啊　失败了的话要怎么办啊？　　　　　　　</text>
+	<attr id="0" playtime="7.1" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="491554130" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>你在说什么啊？　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="8.7" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1755924719" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>不论雨打　　还是风吹　　但是都不会放弃　</text>
+	<attr id="0" playtime="9.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1728732594" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>不错　　我是一直都元气的冲吧　　　　　　</text>
+	<attr id="0" playtime="13.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1523371003" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>我绝对会　抓　住　梦　想　的　　　　　　</text>
+	<attr id="0" playtime="15.9" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="537619963" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>你有梦想吗？你在追逐梦想吗？　　　　　　</text>
+	<attr id="0" playtime="18.9" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1957595498" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>梦想是驱动你向前的原动力啊　　　　　</text>
+	<attr id="0" playtime="20.9" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1967750155" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>来　　做个好梦吧　　　　　　　　　　</text>
+	<attr id="0" playtime="24.6" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1494541211" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>３　　２　　１　　唉！　　　　　　　　　　</text>
+	<attr id="0" playtime="25.3" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="387217638" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>认真起来的话就能改变自己　　认真起来的话就能改变一切　　</text>
+	<attr id="0" playtime="27.3" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1216411997" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>大家有认真的活着吗？　　　　　　　　　　</text>
+	<attr id="0" playtime="31.6" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1964037420" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>因为认真　是活着的基本啊！　　　　　　　</text>
+	<attr id="0" playtime="33.4" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2117957279" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>不论雨打　　还是风吹　　但是不会放弃！　</text>
+	<attr id="0" playtime="35.7" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2124394666" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>倾尽你的全力！　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="39.3" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="977620258" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>在一个地方堵上性命　　　　　　　　　　　</text>
+	<attr id="0" playtime="40.4" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="980613926" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>我一定会达成目标的　　　　　　　　　　　</text>
+	<attr id="0" playtime="42.4" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="152579910" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>会给自己做出欢呼姿势的人　　　　　　　　</text>
+	<attr id="0" playtime="44.7" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1155822778" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>不论什么时候都能坚持过去的　　　　　　　</text>
+	<attr id="0" playtime="47.1" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="470633908" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>不错！　　所以说　　对自己要自信！　　　</text>
+	<attr id="0" playtime="48.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1998272686" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>瞄准ＡＣＥ上吧！　　　　　　　　　　　　</text>
+	<attr id="0" playtime="51.4" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="312845572" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>大家　更加　生龙活虎吧！　　　　　　　　</text>
+	<attr id="0" playtime="53" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1745417116" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>嫉妒　恶言　都是马耳东风　　　　　　　　</text>
+	<attr id="0" playtime="55.1" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1466046895" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>老想着未来是不行的　　　　　　　　　　　</text>
+	<attr id="0" playtime="57.3" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="326226605" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>所以　快想起元气的过去吧！　　　　　　　</text>
+	<attr id="0" playtime="58.7" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1047865070" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>不逃避　　然后不放弃　　　　　　　　　　</text>
+	<attr id="0" playtime="61.6" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="495276103" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>要相信　　是你的话能做到的　　　　　　　</text>
+	<attr id="0" playtime="63.9" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="65456180" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>做不到的事情　　不要放弃啊　　　　　　　</text>
+	<attr id="0" playtime="66.2" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="852387650" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>就还差一点点了啦　　　　　　　　　　　　</text>
+	<attr id="0" playtime="68.2" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1133290007" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>人生不如意的事情有很多吧？　　　　　　　</text>
+	<attr id="0" playtime="70.3" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1197366881" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>对！　都感觉不到你的心意　　　　　　　　</text>
+	<attr id="0" playtime="72.3" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="312680374" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>但是就这样沉下去吗？　要雄起才对啊！　　</text>
+	<attr id="0" playtime="74.7" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1470855903" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>因为你是太阳啊！　　　　　　　　　　　　</text>
+	<attr id="0" playtime="77.1" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="273008689" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>不论雨打　　还是风吹　　但是都不会放弃</text>
+	<attr id="0" playtime="79.1" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1237876283" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>倾尽你的全力！　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="82.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="608910115" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>在一个地方堵上性命　　　　　　　　　　　</text>
+	<attr id="0" playtime="83.6" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="559250262" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>我一定会达成目标的　　　　　　　　　　　</text>
+	<attr id="0" playtime="85.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1824621704" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>想要光辉闪耀吗？　　　　　　　　　　　　</text>
+	<attr id="0" playtime="87.9" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1434304736" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>直球胜负就这样贯彻下去啊　　　　　　　　</text>
+	<attr id="0" playtime="90.1" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="325997714" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>你是钻石的原石啊　　　　　　　　　　　　</text>
+	<attr id="0" playtime="92.4" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="3437879" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>不错，所以说　一直都要　认真的活着啊！　</text>
+	<attr id="0" playtime="94" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1408455494" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>我的网球是做不到百分之百的　　　　　　　</text>
+	<attr id="0" playtime="96.7" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1856751699" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>差不多就60%左右啦　　　　　　　　　　　</text>
+	<attr id="0" playtime="99.6" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="610946119" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>那样的话就会紧张的　　　　　　　　　　　</text>
+	<attr id="0" playtime="100.9" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1624426945" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>但是　会紧张说明自己还能做得更好　　　　</text>
+	<attr id="0" playtime="102.2" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2144249643" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>想要赢所以才会紧张　我觉得这是好事　　　</text>
+	<attr id="0" playtime="105.9" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="828369038" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>你们都还有机会啊　　　　　　　　　　　　</text>
+	<attr id="0" playtime="108.2" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="809136676" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>这种事凭半途而废的态度怎么做得到啊？　　</text>
+	<attr id="0" playtime="109.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2102391600" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>还有在世界上活跃的机会啊　　　　　　　　</text>
+	<attr id="0" playtime="111.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1846182155" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>觉得自己在悬崖峭壁上的你　想要放弃了吗？</text>
+	<attr id="0" playtime="113.8" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="285529298" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>觉得不可能了是吗？　　　　　　　　　　　</text>
+	<attr id="0" playtime="118.1" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1692088241" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>你在说什么啊！　不要在这里放弃呀！　　　</text>
+	<attr id="0" playtime="120.2" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1026865594" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>加油～加油～Ａ　ＮＡ　ＴＡ～　　　　　　</text>
+	<attr id="0" playtime="122.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="535520597" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>加油～加油～ＹＯＵ！～　　　　　　　　　</text>
+	<attr id="0" playtime="124.8" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1884679639" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>加油啊！　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="126.1" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1103476051" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>修造！相信自己吧！　　　　　　　　　　　</text>
+	<attr id="0" playtime="126.9" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="340061675" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>好！我不会逃避的！　　　　　　　　　　　</text>
+	<attr id="0" playtime="129.2" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1038731034" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>但是修造受了不少的苦难　　　　　　　　　</text>
+	<attr id="0" playtime="131" mode="2" fontsize="37" color="0"/>
+</comment>
+<comment id="1118251505" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>世间啊，真是冷淡啊　　　　　　　　　　　</text>
+	<attr id="0" playtime="133.3" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2144140245" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>基本都不正眼看我一下　被无视了　　　　　</text>
+	<attr id="0" playtime="135.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1580645313" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>大家听了都拒绝了　　　　　　　　　　　　</text>
+	<attr id="0" playtime="137.6" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="267832077" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>这里指的应该是修造进军温布尔顿时没人愿意和他练习</text>
+	<attr id="0" playtime="138.5" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="712924459" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>但是总会有理解你的人的　　　　　　　　　</text>
+	<attr id="0" playtime="139.6" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1402458559" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>不错！想想支持着你的人　　　　　　　　　</text>
+	<attr id="0" playtime="141.9" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1778837726" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>总是有伙伴在你的身边哦　　　　　　　　　</text>
+	<attr id="0" playtime="143.8" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="93153645" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>说了以温布尔顿网球赛为目标的吧？　　　　</text>
+	<attr id="0" playtime="146.3" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="662050242" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>首先要从形式上做起！　　　　　　　　　　</text>
+	<attr id="0" playtime="148.4" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2086281839" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>来！　超越　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="150.3" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1313487039" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！！————————————————</text>
+	<attr id="0" playtime="151.8" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2011097543" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>　　自我吧！！————————————</text>
+	<attr id="0" playtime="151.8" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1680094132" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！！————————————————————</text>
+	<attr id="0" playtime="152.1" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="846695821" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>　自我吧！！————————————</text>
+	<attr id="0" playtime="152.1" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1264963716" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！！！————————————————</text>
+	<attr id="0" playtime="152.3" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="106371469" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！！——————————————</text>
+	<attr id="0" playtime="152" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1695834468" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！！————————————————　</text>
+	<attr id="0" playtime="152" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="88883952" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>来，打起精神冲吧！　　　　　　　　　　　</text>
+	<attr id="0" playtime="160.3" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1218404591" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>你的心在燃烧吗？　　　　　　　　　　　　</text>
+	<attr id="0" playtime="161.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="51806323" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>你的力量在燃烧吗？　　　　　　　　　　　</text>
+	<attr id="0" playtime="163.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="734292645" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>你的心意必须要不断的燃烧下去啊　　　　　</text>
+	<attr id="0" playtime="165.7" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="593198394" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>所以说，更加的热起来吧！　　　　　　　　</text>
+	<attr id="0" playtime="168.5" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="705729336" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>人生总是有不少不如意的事情的　　　　　　</text>
+	<attr id="0" playtime="170.3" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="841977330" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>但是，在那里努力的话　　　　　　　　　　</text>
+	<attr id="0" playtime="172.2" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1494081220" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>一定绝对会有机会出现的　　　　　　　　　</text>
+	<attr id="0" playtime="174.4" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="916774544" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>所以说　　就是我说的　　加油吧！　　　　</text>
+	<attr id="0" playtime="176.4" mode="2" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1273850140" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>抓住梦想吧！　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="161.6" mode="2" fontsize="25" color="16744576"/>
+</comment>
+<comment id="1850209646" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>　　　　　就会生龙活虎的啦！　　　　　　</text>
+	<attr id="0" playtime="162.6" mode="2" fontsize="25" color="16763904"/>
+</comment>
+<comment id="471785829" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>　　相信自己吧！　　　　　　　　　　　　</text>
+	<attr id="0" playtime="163.5" mode="2" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1319297754" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>　　　　　要认真的活着啊！　　　　　　　</text>
+	<attr id="0" playtime="164.8" mode="2" fontsize="25" color="65535"/>
+</comment>
+<comment id="1447120566" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>超越自我吧！！　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="167.9" mode="2" fontsize="25" color="255"/>
+</comment>
+<comment id="2109649109" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>　　　　一所悬命　　　　　　　　　　　　</text>
+	<attr id="0" playtime="162.8" mode="2" fontsize="25" color="12583167"/>
+</comment>
+<comment id="1532752603" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>超元气啊</text>
+	<attr id="0" playtime="169.9" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="73507951" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>导师！我又充满勇气了！！！</text>
+	<attr id="0" playtime="173.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1031460745" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！————————————————————————————————————————————————————————</text>
+	<attr id="0" playtime="152.7" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="255240965" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！！———————————————————————————————————————————————————————</text>
+	<attr id="0" playtime="152.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2002393615" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>加油吧！！！！！！！</text>
+	<attr id="0" playtime="178.6" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="755403945" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>加油吧！！！！！！！————————</text>
+	<attr id="0" playtime="178.6" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1521253047" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！————————————————————————————</text>
+	<attr id="0" playtime="153" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="546723739" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>go</text>
+	<attr id="0" playtime="26.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1858455213" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！！！！！！！————————————————————————————————</text>
+	<attr id="0" playtime="152" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="173569124" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>加油吧！！！！！</text>
+	<attr id="0" playtime="179" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1132861190" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！！！！！！——————————————————————————</text>
+	<attr id="0" playtime="152.6" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="716082265" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！！！！！——————————————</text>
+	<attr id="0" playtime="151.9" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="827573500" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>加油吧！！</text>
+	<attr id="0" playtime="180.1" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="885538189" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！！！！！————————————————————————————</text>
+	<attr id="0" playtime="152" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1134839681" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>自我吧！！！！！！——————————————————————————</text>
+	<attr id="0" playtime="153" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1074709170" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>加油吧！！！！！！</text>
+	<attr id="0" playtime="179" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="173316779" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>加油吧！！！</text>
+	<attr id="0" playtime="179" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2133890672" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>加油吧！！！！</text>
+	<attr id="0" playtime="178.9" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="776886451" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>～热～起～来～吧～</text>
+	<attr id="0" playtime="170.3" mode="4" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1728374258" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>修造引领我一生</text>
+	<attr id="0" playtime="46.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2049483999" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>BGM</text>
+	<attr id="0" playtime="7.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="509962670" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>红字君V5了</text>
+	<attr id="0" playtime="95.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="634483671" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>H娘 投稿</text>
+	<attr id="0" playtime="7.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="235963004" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>红字v</text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1025607495" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>感动了。。。</text>
+	<attr id="0" playtime="171" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="64907588" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>加油吧！</text>
+	<attr id="0" playtime="165" mode="2" fontsize="37" color="65535"/>
+</comment>
+<comment id="1381175724" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>第一名啦！</text>
+	<attr id="0" playtime="169.4" mode="2" fontsize="25" color="65280"/>
+</comment>
+<comment id="1110961420" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>最高DA！　　　　　　　　　　</text>
+	<attr id="0" playtime="166.3" mode="2" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1851869139" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>全力以赴！</text>
+	<attr id="0" playtime="167" mode="2" fontsize="25" color="16744576"/>
+</comment>
+<comment id="1215561648" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>红字亮了</text>
+	<attr id="0" playtime="124.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="116890998" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>一心同体</text>
+	<attr id="0" playtime="152.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1973516464" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>一期一会</text>
+	<attr id="0" playtime="153.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2124487518" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>一所悬命</text>
+	<attr id="0" playtime="154.9" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="921663383" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>叱咤激励</text>
+	<attr id="0" playtime="155.9" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="539308620" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>质实刚健</text>
+	<attr id="0" playtime="157.1" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="883299960" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>疲劳困倦</text>
+	<attr id="0" playtime="158.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="430470447" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>卧薪尝胆</text>
+	<attr id="0" playtime="159.3" mode="4" fontsize="25" color="65280"/>
+</comment>
+<comment id="1151255751" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>元</text>
+	<attr id="0" playtime="160.3" mode="4" fontsize="37" color="65535"/>
+</comment>
+<comment id="1794403296" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>气</text>
+	<attr id="0" playtime="160.6" mode="4" fontsize="37" color="255"/>
+</comment>
+<comment id="1451438300" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>地</text>
+	<attr id="0" playtime="160.7" mode="4" fontsize="37" color="12583167"/>
+</comment>
+<comment id="688695775" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>上</text>
+	<attr id="0" playtime="161.1" mode="4" fontsize="37" color="16711680"/>
+</comment>
+<comment id="242437032" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>吧</text>
+	<attr id="0" playtime="161.2" mode="4" fontsize="37" color="16744576"/>
+</comment>
+<comment id="1245438869" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>!!</text>
+	<attr id="0" playtime="161.2" mode="4" fontsize="37" color="65280"/>
+</comment>
+<comment id="519315964" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>有本气地活着！</text>
+	<attr id="0" playtime="166.6" mode="2" fontsize="37" color="16776960"/>
+</comment>
+<comment id="1831663828" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>~</text>
+	<attr id="0" playtime="28.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1107204042" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>不给力- -</text>
+	<attr id="0" playtime="43.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="714718029" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>修造萬歲！
+
+
+
+
+</text>
+	<attr id="0" playtime="156.9" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="268611526" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>导师V5</text>
+	<attr id="0" playtime="130.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1790747370" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>教练我想修造</text>
+	<attr id="0" playtime="8.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="894585281" poolid="1" userhash="deadbeef" sendtime="1341930511">
+	<text>我燃了。混蛋，</text>
+	<attr id="0" playtime="129.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+</comments>

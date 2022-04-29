@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1208004387" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["350","250","1.00-0.1","1.8","ダ"]</text>
+	<attr id="0" playtime="2.4" mode="7" fontsize="45" color="16711884"/>
+</comment>
+<comment id="379967666" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["375","265","1.00-0.1","1.8","ウ"]</text>
+	<attr id="0" playtime="2.4" mode="7" fontsize="36" color="16711884"/>
+</comment>
+<comment id="1429042604" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["390","240","1.00-0.1","1.8","ナ"]</text>
+	<attr id="0" playtime="2.4" mode="7" fontsize="64" color="16711884"/>
+</comment>
+<comment id="688304461" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["440","260","1.00-0.1","1.8","ー"]</text>
+	<attr id="0" playtime="2.4" mode="7" fontsize="36" color="16711884"/>
+</comment>
+<comment id="271345639" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["365","295","1.00-0.1","1.8","【downer】"]</text>
+	<attr id="0" playtime="2.4" mode="7" fontsize="18" color="16711884"/>
+</comment>
+<comment id="720184541" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["135","0","0.8-0.2","2.2","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━","120","0"]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="21797216" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","0","0.8-0.2","2.2","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━","30","0"]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="1786540458" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["360","0","0.8-0.2","2.2","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━","120","0"]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="200333079" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["70","130","0.8-0.2","2.5","不","30","0"]</text>
+	<attr id="0" playtime="4.6" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="2032696568" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["135","200","0.8-0.2","2.5","再 旋","30","0"]</text>
+	<attr id="0" playtime="4.6" mode="7" fontsize="25" color="0"/>
+</comment>
+<comment id="637487491" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["240","220","0.8-0.2","2.5","轉","30","0"]</text>
+	<attr id="0" playtime="4.6" mode="7" fontsize="64" color="16724940"/>
+</comment>
+<comment id="1218798369" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["320","240","0.8-0.2","2.5","的","30","0"]</text>
+	<attr id="0" playtime="4.6" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="12198131" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["360","285","0.8-0.2","2.5","摩 天 輪","30","0"]</text>
+	<attr id="0" playtime="4.6" mode="7" fontsize="25" color="0"/>
+</comment>
+<comment id="1749023655" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["65","120","0.9-0.3","3.5","頂點","30","0"]</text>
+	<attr id="0" playtime="7.2" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="751881997" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["165","210","0.9-0.3","3.5","之上","30","0"]</text>
+	<attr id="0" playtime="7.2" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="473013373" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["240","240","0.9-0.3","3.5","是","30","0"]</text>
+	<attr id="0" playtime="7.2" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="8729167" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["295","240","0.9-0.3","3.5","你","30","0"]</text>
+	<attr id="0" playtime="7.2" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="932632189" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["350","280","0.9-0.3","3.5","和","30","0"]</text>
+	<attr id="0" playtime="7.2" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1747555852" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["400","280","0.9-0.3","3.5","我","30","0"]</text>
+	<attr id="0" playtime="7.2" mode="7" fontsize="45" color="16724940"/>
+</comment>
+<comment id="223919652" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["450","0","0.8-0.2","3.0","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━","120","0"]</text>
+	<attr id="0" playtime="7.2" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="1413527307" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","20","0.8-0.2","3.0","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━","30","0"]</text>
+	<attr id="0" playtime="7.2" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="654959977" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","60","0.8-0.2","2.5","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━","30","0"]</text>
+	<attr id="0" playtime="10.1" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="965640915" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["372","0","0.8-0.2","2.5","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━","120","0"]</text>
+	<attr id="0" playtime="10.1" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="1717875828" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["182","180","0.9-0.3","2.6","虛無","30","0"]</text>
+	<attr id="0" playtime="10.1" mode="7" fontsize="64" color="16777215"/>
+</comment>
+<comment id="1867039245" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["85","140","0.9-0.3","2.8","以那","30","0"]</text>
+	<attr id="0" playtime="10.2" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="867028528" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["180","180","0.9-0.6","2.8","██","30","0"]</text>
+	<attr id="0" playtime="10.2" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="401794191" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["300","250","0.9-0.3","2.8","的","30","0"]</text>
+	<attr id="0" playtime="10.2" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1580403476" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["330","280","0.9-0.3","2.8","速","30","0"]</text>
+	<attr id="0" playtime="10.2" mode="7" fontsize="25" color="16724940"/>
+</comment>
+<comment id="89877334" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["365","285","0.9-0.3","2.8","度","30","0"]</text>
+	<attr id="0" playtime="10.2" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="307865330" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["105","175","0.9-0.3","1.6","從","30","0"]</text>
+	<attr id="0" playtime="13.1" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="872958586" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["150","190","0.9-0.3","1.6","██","30","0"]</text>
+	<attr id="0" playtime="13.1" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="1313196929" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["150","190","0.9-0.3","1.6","陰霾","30","0"]</text>
+	<attr id="0" playtime="13.1" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1612412379" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["230","260","0.9-0.3","1.6","的","30","0"]</text>
+	<attr id="0" playtime="13.1" mode="7" fontsize="25" color="0"/>
+</comment>
+<comment id="24390208" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["275","240","0.9-0.3","1.6","窗","30","0"]</text>
+	<attr id="0" playtime="13.1" mode="7" fontsize="64" color="16724940"/>
+</comment>
+<comment id="1555852334" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["320","290","0.9-0.3","1.6","口","30","0"]</text>
+	<attr id="0" playtime="13.1" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1934436383" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","160","0.9-0.3","1.6","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━","30","0"]</text>
+	<attr id="0" playtime="13.1" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="889417627" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["30","0","1.0-0.2","4.5","　　　　　　▂　　　▃█◣/n　　　　▃███　　███▆/n　　▆█████▌　　　██/n　　　◥███◤　　　▅██/n　　▁　　██◣　　　██◤/n　▅██◣███　　██◤"]</text>
+	<attr id="0" playtime="14.7" mode="7" fontsize="12" color="16724940"/>
+</comment>
+<comment id="1583602158" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["30","85","1.0-0.2","4.5","　██◥███　　██▄/n　██　██▇　█████▇▆▄▂/n　█▊　　█▆██▅　　◥█████▃/n　█▊　▌　▆█▇▄　　　◥█████　　　　　/n　██▅█　█████▃　▅███◤/n　███▌　　▁████▇▆/n　◥██　▇▆███████▋"]</text>
+	<attr id="0" playtime="14.7" mode="7" fontsize="12" color="16724940"/>
+</comment>
+<comment id="2139059493" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["30","185","1.0-0.2","4.5","　　　　　◥█████◤/n　　　　　　　▇██◤　　　　　▂/n　　　　▁▃▆████████████◣/n▅███████◤　　　　　　　◥███　　　　/n◥██▇▃"]</text>
+	<attr id="0" playtime="14.7" mode="7" fontsize="12" color="16724940"/>
+</comment>
+<comment id="1069728121" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["270","60","1.0-0.2","4.5","　　　　　　　　　　　　　　▃/n　　　　　　　　　　　　　　█▇◣/n　　　　　　　　▁　▄█　　███/n　　　　　　　　███◤　◢██▌/n　　　　　　　　███　▄██▊▄▄▁/n　　　　　　　　　██████████▆　　　　　　"]</text>
+	<attr id="0" playtime="14.7" mode="7" fontsize="12" color="16738047"/>
+</comment>
+<comment id="2106845766" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["270","145","1.0-0.2","4.5","　　　　▂▃▅▇███▇▅█▄/n▂▂▄█████▋　　　　██▌/n█████◤　█▉　　▄███▍/n◥███◤　▄██　▄██▆█▇/n　　　　▅▍　　　▃▂　　▁██/n　　　　█▋　　◢▆　▁▇███▋　　　　　　　　　"]</text>
+	<attr id="0" playtime="14.7" mode="7" fontsize="12" color="16738047"/>
+</comment>
+<comment id="665916430" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["270","230","1.0-0.2","4.5","　　　　█▊　◢█▁████◤██/n　　　　█▍◢█▌█▌██◤　██▍/n　　　◢█▏██▄▌　█◤　███▋/n　　　██▄█　████　　████▅/n　　　◥███　◥██　　　　　▃██▎　　　　　　"]</text>
+	<attr id="0" playtime="14.7" mode="7" fontsize="12" color="16738047"/>
+</comment>
+<comment id="979904108" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["270","300","1.0-0.2","4.5","　　　　◥██　　　　　　▁▅███◤/n　　　　　　　　　　▄▆████◤　　　　　　　　　/n　　　　　　　　　　◥██◤/n"]</text>
+	<attr id="0" playtime="14.7" mode="7" fontsize="12" color="16738047"/>
+</comment>
+<comment id="192107352" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["50","300","1.00-0.1","0.5","坠落下去吧"]</text>
+	<attr id="0" playtime="15" mode="7" fontsize="25" color="16724940"/>
+</comment>
+<comment id="213916567" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["50","300","1.00-0.1","0.5","坠落下去吧","5","0"]</text>
+	<attr id="0" playtime="15.6" mode="7" fontsize="25" color="16724940"/>
+</comment>
+<comment id="515422596" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["50","300","1.00-0.1","0.5","坠落下去吧","10","0"]</text>
+	<attr id="0" playtime="16" mode="7" fontsize="25" color="16724940"/>
+</comment>
+<comment id="965069830" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["50","300","1.00-0.1","0.5","坠落下去吧","15","0"]</text>
+	<attr id="0" playtime="16.3" mode="7" fontsize="25" color="16724940"/>
+</comment>
+<comment id="1011249153" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["50","300","1.00-0.1","0.5","坠落下去吧","20","0"]</text>
+	<attr id="0" playtime="16.6" mode="7" fontsize="25" color="16724940"/>
+</comment>
+<comment id="1072149291" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["50","300","1.00-0.1","0.5","坠落下去吧","25","0"]</text>
+	<attr id="0" playtime="16.8" mode="7" fontsize="25" color="16724940"/>
+</comment>
+<comment id="821420155" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["50","300","1.00-0.1","0.5","坠落下去吧","30","0"]</text>
+	<attr id="0" playtime="17.1" mode="7" fontsize="25" color="16724940"/>
+</comment>
+<comment id="1966307458" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n碎/n　/n裂/n　/n了/n　/n的/n　/n回/n　/n憶/n　/n　</text>
+	<attr id="0" playtime="21.4" mode="1" fontsize="25" color="16711782"/>
+</comment>
+<comment id="488633895" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n碎/n　/n 裂　　　 /n　/n　了　　　/n　/n　 的　　 /n　/n　　回　 /n　/n　　 憶/n　/n　</text>
+	<attr id="0" playtime="21.4" mode="1" fontsize="25" color="16711833"/>
+</comment>
+<comment id="330150278" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n碎/n　/n  裂　　　　　　　/n　/n　　了　　　　　　/n　/n　　　的　　　　　/n　/n　　　　回　　　　/n　/n　　　　　憶　　　/n　/n　</text>
+	<attr id="0" playtime="21.4" mode="1" fontsize="25" color="16724940"/>
+</comment>
+<comment id="2080777839" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n碎/n　/n   裂　　　　　　　　　　 /n　/n　　　了　　　　　　　　　/n　/n　　　 　的　　　　　　　 /n　/n　　　　　　回　　　　　　/n　/n　　　　　　　 憶　　　　 /n　/n　</text>
+	<attr id="0" playtime="21.4" mode="1" fontsize="25" color="16724991"/>
+</comment>
+<comment id="328569888" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n碎/n　/n    裂　　　　　　　　　　　　　　/n　/n　　　　了　　　　　　　　　　　　/n　/n　　　　　　的　　　　　　　　　　/n　/n　　　　　　　　回　　　　　　　　/n　/n　　　　　　　　　　憶　　　　　　/n　/n　</text>
+	<attr id="0" playtime="21.4" mode="1" fontsize="25" color="16737996"/>
+</comment>
+<comment id="562569291" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n碎/n　/n     裂　　　　　　　　　　　　　　　　　 /n　/n　　　　　了　　　　　　　　　　　　　　　/n　/n　　　　　　　 的　　　　　　　　　　　　 /n　/n　　　　　　　　　　回　　　　　　　　　　/n　/n　　　　　　　　　　　　 憶　　　　　　　 /n　/n　</text>
+	<attr id="0" playtime="21.4" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="252735521" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n在/n　/n燈/n　/n光/n　/n照/n　/n射/n　/n下/n　/n　</text>
+	<attr id="0" playtime="24.6" mode="1" fontsize="25" color="16764159"/>
+</comment>
+<comment id="504076516" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n在/n　/n 燈　　　 /n　/n　光　　　/n　/n　 照　　 /n　/n　　射　 /n　/n　　 下/n　/n　</text>
+	<attr id="0" playtime="24.6" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1590495936" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n在/n　/n  燈　　　　　　　/n　/n　　光　　　　　　/n　/n　　　照　　　　　/n　/n　　　　射　　　　/n　/n　　　　　下　　　/n　/n　</text>
+	<attr id="0" playtime="24.6" mode="1" fontsize="25" color="16738047"/>
+</comment>
+<comment id="1587618795" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n在/n　/n   燈　　　　　　　　　　 /n　/n　　　光　　　　　　　　　/n　/n　　　 　照　　　　　　　 /n　/n　　　　　　射　　　　　　/n　/n　　　　　　　 下　　　　 /n　/n　</text>
+	<attr id="0" playtime="24.6" mode="1" fontsize="25" color="16724991"/>
+</comment>
+<comment id="186279395" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n在/n　/n    燈　　　　　　　　　　　　　　/n　/n　　　　光　　　　　　　　　　　　/n　/n　　　　　　照　　　　　　　　　　/n　/n　　　　　　　　射　　　　　　　　/n　/n　　　　　　　　　　下　　　　　　/n　/n　</text>
+	<attr id="0" playtime="24.6" mode="1" fontsize="25" color="16711935"/>
+</comment>
+<comment id="783418466" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n在/n　/n     燈　　　　　　　　　　　　　　　　　 /n　/n　　　　　光　　　　　　　　　　　　　　　/n　/n　　　　　　　 照　　　　　　　　　　　　 /n　/n　　　　　　　　　　射　　　　　　　　　　/n　/n　　　　　　　　　　　　 下　　　　　　　 /n　/n　</text>
+	<attr id="0" playtime="24.6" mode="1" fontsize="25" color="13369599"/>
+</comment>
+<comment id="636948929" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","0","1.00-0.1","1.2","　　　　　◢█▋/n　　　　　███▍　　　　▃▁　　　▁▆▇▇▃/n　　　　　◥██▋　　▇███▄　▇██◤　　█◣/n　　　　　　██　　▇██　▅███◤　　　　██　　/n　　　　　　██◣▅▆　　　██◤　　　　　▂██"]</text>
+	<attr id="0" playtime="28.3" mode="7" fontsize="12" color="16777164"/>
+</comment>
+<comment id="1949715654" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","70","1.00-0.1","1.2","　　　　　　████　　▅███　◢██▌　██▌　　/n　▂　　　◢███　　████▇▃███▂███/n　██▄　███　　██　██　　██████▌/n　██████▌　◢█▍▁█▌　▇█◥██◤/n◢██████　　██▅█▊　◢█"]</text>
+	<attr id="0" playtime="28.3" mode="7" fontsize="12" color="16777164"/>
+</comment>
+<comment id="443147259" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","140","1.00-0.1","1.2","████　██　▆　◥█▉　◢█　　▇██▅/n◥██　　█▆▆█　　　　　██▄█████▆　　　　/n　█▌　　████▋　　　▃██　　　　███/n　　　　▇█▍　██　　　████▄▄▅██▌/n　　　　██　　　◥　　　██　██████/n　　　▄█　　　　　　　　◥█▇　　　██▌"]</text>
+	<attr id="0" playtime="28.3" mode="7" fontsize="12" color="16777164"/>
+</comment>
+<comment id="1017915477" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","225","1.00-0.1","1.2","　　██　　　　　　　　　　◥█▆▂███　　　　　　/n　　　　　　　　　　　　　　　◥███◤"]</text>
+	<attr id="0" playtime="28.3" mode="7" fontsize="12" color="16777164"/>
+</comment>
+<comment id="837158570" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["180","90","1.00-0.1","1.2","　　　　　◢█▋/n　　　　　███▍　　　　▃▁　　　▁▆▇▇▃/n　　　　　◥██▋　　▇███▄　▇██◤　　█◣/n　　　　　　██　　▇██　▅███◤　　　　██　　/n　　　　　　██◣▅▆　　　██◤　　　　　▂██"]</text>
+	<attr id="0" playtime="28.8" mode="7" fontsize="12" color="16764108"/>
+</comment>
+<comment id="499347239" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["180","160","1.00-0.1","1.2","　　　　　　████　　▅███　◢██▌　██▌　　/n　▂　　　◢███　　████▇▃███▂███/n　██▄　███　　██　██　　██████▌/n　██████▌　◢█▍▁█▌　▇█◥██◤/n◢██████　　██▅█▊　◢█"]</text>
+	<attr id="0" playtime="28.8" mode="7" fontsize="12" color="16764108"/>
+</comment>
+<comment id="730367261" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["180","230","1.00-0.1","1.2","████　██　▆　◥█▉　◢█　　▇██▅/n◥██　　█▆▆█　　　　　██▄█████▆　　　　/n　█▌　　████▋　　　▃██　　　　███/n　　　　▇█▍　██　　　████▄▄▅██▌/n　　　　██　　　◥　　　██　██████/n　　　▄█　　　　　　　　◥█▇　　　██▌"]</text>
+	<attr id="0" playtime="28.8" mode="7" fontsize="12" color="16764108"/>
+</comment>
+<comment id="1945651834" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["180","315","1.00-0.1","1.2","　　██　　　　　　　　　　◥█▆▂███　　　　　　/n　　　　　　　　　　　　　　　◥███◤"]</text>
+	<attr id="0" playtime="28.8" mode="7" fontsize="12" color="16764108"/>
+</comment>
+<comment id="794478147" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","0","1.00-0.1","1.2","　　　　　　　　　　█◣/n　　　　　　　　　　██/n　　　　　　　　　　██▋/n　　　　　　　　　　██▊/n　　◣　　　　　　　██▍▃/n　◢█◣　　　　　　█████▅　　　　　　　　"]</text>
+	<attr id="0" playtime="29.9" mode="7" fontsize="12" color="16777164"/>
+</comment>
+<comment id="270691680" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","85","1.00-0.1","1.2","　▇██　　　　▃███████　　　　　　　　/n◢███　▂▅█████/n███████████▋/n◥█████◤　　▇█▋/n　◥██◤　　　▁███▅/n　　　　　▁▇███████"]</text>
+	<attr id="0" playtime="29.9" mode="7" fontsize="12" color="16777164"/>
+</comment>
+<comment id="1211728510" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","170","1.00-0.1","1.2","　　　▄██████████▌/n　　　██▄▂　▂████◤/n　　　　　　　▅███◤/n　　　　　▂█████　▂▄▄/n　　◢█████████████▅/n　　◥███◤　　　　　　◥███▎　　　　　　"]</text>
+	<attr id="0" playtime="29.9" mode="7" fontsize="12" color="16777164"/>
+</comment>
+<comment id="1597458691" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["230","90","1.00-0.1","1.2","　　　▄▂　▁▃▅▋　▌▄▄▄▆█▆▅▄▄▃　　　　/n　　　　██▊　　█　██◤　◢　　　▂██▌/n◢　▂◤　██　▅█▌█▄▄▅███▋◥█◤/n█▆▌　　█▋██▊█▌　███▇/n◥█　　◥███◤██　▂█　　▃▁"]</text>
+	<attr id="0" playtime="30.4" mode="7" fontsize="12" color="16764159"/>
+</comment>
+<comment id="1310793244" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["230","160","1.00-0.1","1.2","　▌　　▅█████　　██▂▇███　　　　　　　/n　　▅██　▂██　　███████◤/n　██◤　▄█◤　　　　　　　██▃　▁▃/n　　　　▅█▌　▌　　　　◢████████/n　　▃███▄▂▉　▄██████　　◥██▍"]</text>
+	<attr id="0" playtime="30.4" mode="7" fontsize="12" color="16764159"/>
+</comment>
+<comment id="798050464" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["230","230","1.00-0.1","1.2","　██　　◥██▋　◥██◤　██　　　　　　　　　/n　█◤　　　◥█▍　　　　　　██/n　　　　　　　◥　　　　　　　██/n　　　　　　　　　　　　　　　██/n　　　　　　　　　　　　　　　██/n　　　　　　　　　　　　　　　█▊/n　　　　　　　　　　　　　　　█▌/n　　　　　　　　　　　　　　　█"]</text>
+	<attr id="0" playtime="30.4" mode="7" fontsize="12" color="16764159"/>
+</comment>
+<comment id="1306178051" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　　纖細的左手揮舞空中　　　　　　　　　</text>
+	<attr id="0" playtime="34.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="760122383" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　　　細　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="34.6" mode="5" fontsize="25" color="16724991"/>
+</comment>
+<comment id="659745279" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　　　細　左手　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="35" mode="5" fontsize="25" color="16724991"/>
+</comment>
+<comment id="381811033" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　　　細　左手　舞　中　　　　　　　　　</text>
+	<attr id="0" playtime="35.7" mode="5" fontsize="25" color="16724991"/>
+</comment>
+<comment id="1513452446" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　　纖細的左手揮舞空中　　　　　　　　　</text>
+	<attr id="0" playtime="35.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1306837531" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　　　細　左手　舞　中　　　　　　　　　</text>
+	<attr id="0" playtime="35.7" mode="5" fontsize="25" color="16724991"/>
+</comment>
+<comment id="1806228107" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　　　　　　　　　　　　逐漸遠離開來　　</text>
+	<attr id="0" playtime="37.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="792682792" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　　　　　　　　　　　　　漸　　　　　　</text>
+	<attr id="0" playtime="38.4" mode="5" fontsize="25" color="16724991"/>
+</comment>
+<comment id="690218603" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　　　　　　　　　　　　　漸　離　　　　</text>
+	<attr id="0" playtime="39" mode="5" fontsize="25" color="16724991"/>
+</comment>
+<comment id="205243736" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["321","170","1.00-1.00","4.50","I was dead","60","0"]</text>
+	<attr id="0" playtime="41.3" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1061681278" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["320","170","1.00-0.2","0.5","      d   ","60","0"]</text>
+	<attr id="0" playtime="41.3" mode="7" fontsize="25" color="16724991"/>
+</comment>
+<comment id="1256462626" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["80","150","1.00-0.1","1.8","啊—已經該告別了。"]</text>
+	<attr id="0" playtime="43" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="485901687" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","180","1.00-0.1","1.8","忽好/n然█/n覺█/n得"]</text>
+	<attr id="0" playtime="46.2" mode="7" fontsize="25" color="0"/>
+</comment>
+<comment id="1830137770" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","180","1.00-0.1","1.8","　　/n　空/n　虛/n　"]</text>
+	<attr id="0" playtime="46.2" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="655300523" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["360","65","1.00-0.1","1.8","你/n雪/n白/n肌/n膚"]</text>
+	<attr id="0" playtime="49.3" mode="7" fontsize="45" color="1"/>
+</comment>
+<comment id="573668915" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["360","65","1.00-0.1","2.0","已/n經/n碰/n不/n到/n了","30","0"]</text>
+	<attr id="0" playtime="52.4" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1677030512" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["300","150","0.1-1.00","2.0","━啊","45","0"]</text>
+	<attr id="0" playtime="55.8" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="2098430390" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["115","74","0.1-1.00","2.0","已經受夠了","45","0"]</text>
+	<attr id="0" playtime="55.9" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1321414137" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["130","74","0.1-1.00","2.0","這種人的██"]</text>
+	<attr id="0" playtime="58.8" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="2084892168" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["130","74","0.1-1.00","2.0","　　　　事情"]</text>
+	<attr id="0" playtime="58.8" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="238519630" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["60","60","1-0.5","2.0","就　　　　　　　"]</text>
+	<attr id="0" playtime="62.1" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="106563000" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["60","60","0.9-0.4","2.0","　快　　　　　"]</text>
+	<attr id="0" playtime="62.1" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="70650545" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["60","60","0.8-0.3","2.0","　　點　　　　"]</text>
+	<attr id="0" playtime="62.1" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1711345206" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["60","60","0.8-0.3","2.0","　　　　全　　　"]</text>
+	<attr id="0" playtime="62.1" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1717243508" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["60","60","0.7-0.2","2.0","　　　　　都　　"]</text>
+	<attr id="0" playtime="62.1" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1168460883" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["60","60","0.6-0.2","2.0","　　　　　　忘　"]</text>
+	<attr id="0" playtime="62.1" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1171321665" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["60","60","0.5-0.1","2.0","　　　　　　　掉"]</text>
+	<attr id="0" playtime="62.1" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1868164972" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n████████████/n████████████/n████████████/n████████████/n████████████/n/n/n/n/n/n/n/n/n/n　</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="907082861" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　　█/n█　　　　　█/n　　　　　　█/n　　　█　　█/n　██/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1009450117" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　　　　　　　　█　█　　　　　　/n　/n　/n　　　　　█/n　/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="1192274134" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　　　　　　　　█　　　　　　　　/n　　　　　　　█/n　/n　/n　/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1176824877" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　/n　/n　　　　█　　　　　　█　　　　　/n　　　　█/n　　　　　　　　█　█/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1351448654" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　　　　　█　　　　　　/n　　　█/n　/n　/n　　　█　█/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="127437987" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　/n　/n　/n　/n█　　　　█　/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="2051790383" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　　　　█　　█　　　　/n　/n　　　　█/n　　　　█/n　/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="611175678" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　　　　　█　　　█　　　　　　　/n　/n　　　　　██/n　　　　　██/n　/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="1666144874" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　/n　/n　　　　　█　　　　　　/n　/n　/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1533482771" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　　　█　　　/n　　　█　　　/n　/n　/n　█/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="105328602" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　/n　　　　█　　　　　　　　　　　　/n　/n　/n　　　　█/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="13247917" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　　　　　█　　　█　　　　　　　/n　/n　　　　　　　　　█/n　/n　　　　　█/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="1945638456" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　/n　/n　/n　/n　█/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1238443815" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n███　　　　　████/n███　　　　　████/n███　　　█　████/n███　　　　　████/n███　　　　　████/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="1892267132" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　【downer】I was dead　/n　/n　/n　/n　/n　/n/n/n/n/n/n/n/n/n/n　</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="1693187086" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　【downer】I was dead　/n████████████/n████████████/n████████████/n████████████/n████████████/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="50996678" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n████████████/n████████████/n████████████/n████████████/n████████████/n████████████/n████████████/n/n/n/n/n/n/n/n/n　</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="1069948935" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　　█/n█　　　　　█/n　　　　　　█/n　　　█　　█/n　██/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1607913285" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　　　　　　　　█　█　　　　　　/n　/n　/n　　　　　█/n　/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="2102065461" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n████████████/n████████████/n████████████/n████████████/n████████████/n████████████/n████████████/n/n/n/n/n/n/n/n　</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="1974455633" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　　█/n█　　　　　█/n　　　　　　█/n　　　█　　█/n　██/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1460531131" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　　　　　　　　█　█　　　　　　/n　/n　/n　　　　　█/n　/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="419872800" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　　　　　　　　█　　　　　　　　/n　　　　　　　█/n　/n　/n　/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="940446227" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　/n　/n　　　　█　　　　　　█　　　　　/n　　　　█/n　　　　　　　　█　█/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="780102253" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　　　　　█　　　　　　/n　　　█/n　/n　/n　　　█　█/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="185777077" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　/n　/n　/n　/n█　　　　█　/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="277395284" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　　　　█　　█　　　　/n　/n　　　　█/n　　　　█/n　/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1898342981" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　　　　　█　　　█　　　　　　　/n　/n　　　　　██/n　　　　　██/n　/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="173301657" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　/n　/n　　　　　█　　　　　　/n　/n　/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1152529396" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　　　█　　　/n　　　█　　　/n　/n　/n　█/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="918632081" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　/n　　　　█　　　　　　　　　　　　/n　/n　/n　　　　█/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="275280358" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　　　　　█　　　█　　　　　　　/n　/n　　　　　　　　　█/n　/n　　　　　█/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="602406268" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n　/n　/n　/n　/n　█/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1399709230" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n/n███　　　　　████/n███　　　　　████/n███　　　█　████/n███　　　　　████/n███　　　　　████/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="1783091899" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　【downer】I was dead　/n　/n　/n　/n　/n　/n/n/n/n/n/n/n/n/n/n　</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1492853618" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>/n/n/n/n　/n　/n　/n　/n　/n　/n　　ダ　ウ　　ナ　ー　　/n/n/n/n/n/n/n/n/n　</text>
+	<attr id="0" playtime="66.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1011996387" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","50","1.00-0.1","1","→            ← "]</text>
+	<attr id="0" playtime="75.6" mode="7" fontsize="64" color="16724991"/>
+</comment>
+<comment id="800240429" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","50","1.00-0.1","1","→            ←"]</text>
+	<attr id="0" playtime="75.6" mode="7" fontsize="64" color="16724991"/>
+</comment>
+<comment id="1992974529" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","50","1.00-0.1","1","→            ←"]</text>
+	<attr id="0" playtime="75.6" mode="7" fontsize="64" color="16724991"/>
+</comment>
+<comment id="1561643617" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","270","1.00-0.1","1","→            ←"]</text>
+	<attr id="0" playtime="75.6" mode="7" fontsize="64" color="16724991"/>
+</comment>
+<comment id="71122979" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["50","120","0.1-1","1.8","啊——已經該告別了。"]</text>
+	<attr id="0" playtime="79.8" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="414132884" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["130","180","0.1-1","1.8","██████"]</text>
+	<attr id="0" playtime="83" mode="7" fontsize="45" color="16738047"/>
+</comment>
+<comment id="2022643808" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["130","180","0.1-1","1.8","▄▄▄▄▄▄"]</text>
+	<attr id="0" playtime="83" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="1262873914" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["130","180","0.1-1","1.8","因為我很討厭"]</text>
+	<attr id="0" playtime="83" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1945771491" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["130","180","0.1-1","1.8","██████"]</text>
+	<attr id="0" playtime="86" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="1889267508" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["130","180","0.1-1","1.8","▄▄▄▄▄▄"]</text>
+	<attr id="0" playtime="86" mode="7" fontsize="45" color="16738047"/>
+</comment>
+<comment id="1491175516" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["130","180","0.1-1","1.8","表情悲傷的你"]</text>
+	<attr id="0" playtime="86" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1594685579" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["180","80","1-0.3","1.8","所以在我抵達"]</text>
+	<attr id="0" playtime="89.3" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1328175541" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","120","1-0.3","1.8","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]</text>
+	<attr id="0" playtime="89.3" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="1276151257" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["180","0","1-0.3","1.8","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━","90","0"]</text>
+	<attr id="0" playtime="89.3" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="514957168" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["250","200","1-0.3","1.8","天空前都想要","10","60"]</text>
+	<attr id="0" playtime="92.7" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="660611288" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","175","1-0.3","1.8","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━","10","60"]</text>
+	<attr id="0" playtime="92.7" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="1314345666" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["210","0","1-0.3","1.8","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━","90","60"]</text>
+	<attr id="0" playtime="92.7" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="856532220" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","200","0.5-0.1","1.8","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]</text>
+	<attr id="0" playtime="95.7" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="634832954" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["150","165","1-0.3","1.8","看到笑著的你呢"]</text>
+	<attr id="0" playtime="95.8" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="657023926" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["150","245","0.5-0.1","1.8","看到笑著的你呢","180","180"]</text>
+	<attr id="0" playtime="95.8" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="477115171" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","295","0.9-0.5","1.8","不要露出哭泣的表情"]</text>
+	<attr id="0" playtime="99.3" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="579179330" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","380","0.5-0.1","1.8","不要露出哭泣的表情","180","180"]</text>
+	<attr id="0" playtime="99.3" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1384703899" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","75","0.6-0.1","1.8","很 漂 亮 喔"]</text>
+	<attr id="0" playtime="102.3" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="101136970" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","75","0.1-0.1","1.8","█ █ █ █"]</text>
+	<attr id="0" playtime="102.3" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1102310671" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","0","1-0.1","1.5","　　　　　　　　　▄▂/n　　　　　　▄████▋/n　　　　　　◥███◤　　　　　　　▅██▄/n　　　　▃▅█▄　▇　　　　　　▅██◤██▋　　　/n　　　▅　　▇▆▂████▂▄██◤　　██▎"]</text>
+	<attr id="0" playtime="103.8" mode="7" fontsize="12" color="16724991"/>
+</comment>
+<comment id="1985665098" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","70","1-0.1","1.5","　　　█　▄██▇█　　███◤　　　　██　　　　/n　　　██▁█▃▁█　███　　▇▄　▇█▌/n　　　　█　▅▇██████　　██▍██▎/n　　　　███　　　█▅▅█　　██　██/n　　　　　▂▁▃▅▅▂　█▋█▃█◤　█▌　　　　　/n　　　　▅██████　█　◥██　　█▌"]</text>
+	<attr id="0" playtime="103.8" mode="7" fontsize="12" color="16738047"/>
+</comment>
+<comment id="619816427" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","155","1-0.1","1.5","　　　　　▅▅▃▅██▇█　　██▅▄█▎/n　　▃▆██▆██　　　▆　██◤███/n◢███▇　　██　　　███◤　　██/n██◤◢█　　████▇█◤　　　　　█▂　　　◣　"]</text>
+	<attr id="0" playtime="103.8" mode="7" fontsize="12" color="16751103"/>
+</comment>
+<comment id="1087437164" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","212","1-0.1","1.5","　　　██　　██　▅█▆　　　　　　██▄　▂█◣/n　　　█◤◥███　　▃　　　　　　　◥██████/n　　　　　　◥██　　　　　　　　　　　　◥███◤/n　　　　　　　◥█"]</text>
+	<attr id="0" playtime="103.8" mode="7" fontsize="12" color="16764159"/>
+</comment>
+<comment id="2030734656" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["170","120","1-0.1","1.5","　　　　　　　　　▄▂/n　　　　　　▄████▋/n　　　　　　◥███◤　　　　　　　▅██▄/n　　　　▃▅█▄　▇　　　　　　▅██◤██▋　　　/n　　　▅　　▇▆▂████▂▄██◤　　██▎"]</text>
+	<attr id="0" playtime="104.5" mode="7" fontsize="12" color="16764159"/>
+</comment>
+<comment id="85026130" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["170","190","1-0.1","1.5","　　　█　▄██▇█　　███◤　　　　██　　　　/n　　　██▁█▃▁█　███　　▇▄　▇█▌/n　　　　█　▅▇██████　　██▍██▎/n　　　　███　　　█▅▅█　　██　██/n　　　　　▂▁▃▅▅▂　█▋█▃█◤　█▌　　　　　/n　　　　▅██████　█　◥██　　█▌"]</text>
+	<attr id="0" playtime="104.5" mode="7" fontsize="12" color="16751103"/>
+</comment>
+<comment id="1675925674" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["170","275","1-0.1","1.5","　　　　　▅▅▃▅██▇█　　██▅▄█▎/n　　▃▆██▆██　　　▆　██◤███/n◢███▇　　██　　　███◤　　██/n██◤◢█　　████▇█◤　　　　　█▂　　　◣　"]</text>
+	<attr id="0" playtime="104.5" mode="7" fontsize="12" color="16738047"/>
+</comment>
+<comment id="415878274" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["170","331","1-0.1","1.5","　　　██　　██　▅█▆　　　　　　██▄　▂█◣/n　　　█◤◥███　　▃　　　　　　　◥██████/n　　　　　　◥██　　　　　　　　　　　　◥███◤/n　　　　　　　◥█"]</text>
+	<attr id="0" playtime="104.5" mode="7" fontsize="12" color="16724991"/>
+</comment>
+<comment id="905053819" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","0","1-0.1","1.5","　　　　　　▁　　　　　　　▃▂▁▂/n　　　　　　██▆　　　　　　████/n　　　　　　　██▌　▂▄▇█████/n　　　　　　　██　　　　　▅　　　▅/n　　　　　　▃██▌　　　　██　　██　　　"]</text>
+	<attr id="0" playtime="105.6" mode="7" fontsize="12" color="16777011"/>
+</comment>
+<comment id="1360545010" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","70","1-0.1","1.5","　　　　▃███◤　　█▆　██　◢█◤　　　/n▂▂▅█████　　　██　　███▂/n█████◤██　　　▇█▅▆████/n◥███◤　▆█▆◤　███████◤/n　◥█◤　　██◤　　　　　███◤"]</text>
+	<attr id="0" playtime="105.6" mode="7" fontsize="12" color="16777062"/>
+</comment>
+<comment id="1083979223" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","140","1-0.1","1.5","　　　　　▇█▆　　　　▁▇███▇███▇◣/n　　▁▆████　▂▆████████████/n　████◤███████◤▅█　　▁/n　██◤　　██████　　██　　█▇/n　　　▂　　██　　▆█　　██████▇　　"]</text>
+	<attr id="0" playtime="105.6" mode="7" fontsize="12" color="16777113"/>
+</comment>
+<comment id="417588958" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","210","1-0.1","1.5","　　　◥████　　███████▇███/n　　　　◥███　　████　　　　　██/n　　　　　　◥█　　◥██◤　　　　　█◤　　"]</text>
+	<attr id="0" playtime="105.6" mode="7" fontsize="12" color="16777164"/>
+</comment>
+<comment id="102541233" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["180","120","1-0.1","1.5","　　　　　　▁　　　　　　　▃▂▁▂/n　　　　　　██▆　　　　　　████/n　　　　　　　██▌　▂▄▇█████/n　　　　　　　██　　　　　▅　　　▅/n　　　　　　▃██▌　　　　██　　██　　　"]</text>
+	<attr id="0" playtime="106.5" mode="7" fontsize="12" color="16777164"/>
+</comment>
+<comment id="1060951205" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["180","190","1-0.1","1.5","　　　　▃███◤　　█▆　██　◢█◤　　　/n▂▂▅█████　　　██　　███▂/n█████◤██　　　▇█▅▆████/n◥███◤　▆█▆◤　███████◤/n　◥█◤　　██◤　　　　　███◤"]</text>
+	<attr id="0" playtime="106.5" mode="7" fontsize="12" color="16777113"/>
+</comment>
+<comment id="666073320" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["180","260","1-0.1","1.5","　　　　　▇█▆　　　　▁▇███▇███▇◣/n　　▁▆████　▂▆████████████/n　████◤███████◤▅█　　▁/n　██◤　　██████　　██　　█▇/n　　　▂　　██　　▆█　　██████▇　　"]</text>
+	<attr id="0" playtime="106.5" mode="7" fontsize="12" color="16777062"/>
+</comment>
+<comment id="794897870" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["180","330","1-0.1","1.5","　　　◥████　　███████▇███/n　　　　◥███　　████　　　　　██/n　　　　　　◥█　　◥██◤　　　　　█◤　　"]</text>
+	<attr id="0" playtime="106.5" mode="7" fontsize="12" color="16777011"/>
+</comment>
+<comment id="1753476884" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["420","50","1.00-0.1","0.5","逐/n漸/n墜/n落/n的/n我"]</text>
+	<attr id="0" playtime="109.5" mode="7" fontsize="45" color="6710886"/>
+</comment>
+<comment id="1447191293" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["420","50","1.00-0.1","0.5","逐/n漸/n墜/n落/n的/n我"]</text>
+	<attr id="0" playtime="110" mode="7" fontsize="45" color="13421772"/>
+</comment>
+<comment id="1424369150" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["420","50","1.00-0.1","0.5","逐/n漸/n墜/n落/n的/n我"]</text>
+	<attr id="0" playtime="110.6" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="408568358" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","50","1.00-0.1","0.5","和/n那/n溫/n暖/n的/n風"]</text>
+	<attr id="0" playtime="112.4" mode="7" fontsize="45" color="10066329"/>
+</comment>
+<comment id="1589752374" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","50","1.00-0.1","0.5","和/n那/n溫/n暖/n的/n風"]</text>
+	<attr id="0" playtime="112.8" mode="7" fontsize="45" color="13421772"/>
+</comment>
+<comment id="1747054032" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","50","1.00-0.1","0.5","和/n那/n溫/n暖/n的/n風"]</text>
+	<attr id="0" playtime="113.2" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="1461304935" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","50","1.00-0.1","0.5","輕 輕 柔 柔"]</text>
+	<attr id="0" playtime="116.3" mode="7" fontsize="64" color="3355443"/>
+</comment>
+<comment id="1827387680" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","50","1.00-0.1","0.5","輕 輕 柔 柔"]</text>
+	<attr id="0" playtime="116.7" mode="7" fontsize="64" color="6710886"/>
+</comment>
+<comment id="1102379236" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","50","1.00-0.1","0.5","輕 輕 柔 柔"]</text>
+	<attr id="0" playtime="117" mode="7" fontsize="64" color="10066329"/>
+</comment>
+<comment id="1422435131" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","50","1.00-0.1","0.5","輕 輕 柔 柔"]</text>
+	<attr id="0" playtime="117.6" mode="7" fontsize="64" color="13421772"/>
+</comment>
+<comment id="683798783" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["100","50","1.00-0.1","0.5","輕 輕 柔 柔"]</text>
+	<attr id="0" playtime="117.9" mode="7" fontsize="64" color="16777215"/>
+</comment>
+<comment id="267017179" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["60","50","1.00-0.1","3","空"]</text>
+	<attr id="0" playtime="121.6" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1210746552" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["130","65","1.00-0.1","3","█"]</text>
+	<attr id="0" playtime="121.6" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1791378930" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["130","65","1.00-0.1","3","想"]</text>
+	<attr id="0" playtime="121.6" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="1067808499" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["175","50","1.00-0.1","3","妄"]</text>
+	<attr id="0" playtime="121.6" mode="7" fontsize="64" color="16724940"/>
+</comment>
+<comment id="159688545" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["240","50","1.00-0.1","3","想"]</text>
+	<attr id="0" playtime="121.6" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1703266965" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["0","120","1.00-0.1","3","━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]</text>
+	<attr id="0" playtime="121.6" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="47328126" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["175","250","0.1-1","3","瀝青之中鋪陳開來的我——"]</text>
+	<attr id="0" playtime="123.8" mode="7" fontsize="18" color="0"/>
+</comment>
+<comment id="449911800" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["175","250","1.0-1","3","瀝青之中鋪陳開來的我——"]</text>
+	<attr id="0" playtime="126" mode="7" fontsize="18" color="0"/>
+</comment>
+<comment id="1529426963" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["290","210","1.0-0.8","4.5","ダ"]</text>
+	<attr id="0" playtime="143.4" mode="7" fontsize="36" color="16777215"/>
+</comment>
+<comment id="1085113412" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["315","225","1.0-0.8","4.5","ウ"]</text>
+	<attr id="0" playtime="143.4" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1332308428" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["330","205","1.0-0.8","4.5","ナ"]</text>
+	<attr id="0" playtime="143.4" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="1821168772" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["365","215","1.0-0.8","4.5","ー"]</text>
+	<attr id="0" playtime="143.4" mode="7" fontsize="36" color="16777215"/>
+</comment>
+<comment id="1330281997" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["400","230","1.0-0.8","4.5","【downer】"]</text>
+	<attr id="0" playtime="143.4" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="2004959332" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["300","260","1.0-0.8","4.5","翻譯：cyataku"]</text>
+	<attr id="0" playtime="143.4" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="2064557632" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>["300","290","1.0-0.8","4.5","字幕：蓝组某人"]</text>
+	<attr id="0" playtime="143.4" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="393234768" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　　　　　　　　　　　　　　████　　</text>
+	<attr id="0" playtime="162.3" mode="5" fontsize="18" color="16777215"/>
+</comment>
+<comment id="1550943664" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　　　　　　　　　　　　　　████　　</text>
+	<attr id="0" playtime="162.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="393108977" poolid="1" userhash="75599940" sendtime="1341930555">
+	<text>　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　/n　　　　　　　　　　　　　　謝謝觀賞　　</text>
+	<attr id="0" playtime="162.3" mode="5" fontsize="25" color="16738047"/>
+</comment>
+</comments>

@@ -1,0 +1,23 @@
+version=pmwiki-2.2.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.107 Safari/535.1
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1312375314
+host=199.27.128.81
+name=Bilibili2.1092
+rev=3
+targets=
+text=(:VideoStr:57919642:)%0a(:title [蓝白02][第三日][蓝组]钢之炼金术师组曲 :)%0a(:sourcelink:http://www.bilibili.tv/video/av122646/:)%0a(:VideoType:Nor:)%0a(:IsMuti::)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a[[#partinfo]]%0a[[#partend]]%0a(:ifend:)
+time=1312462234
+title=[蓝白02][第三日][蓝组]钢之炼金术师组曲 
+author:1312462234=Admin
+diff:1312462234:1312378686:=2c2%0a%3c (:title [蓝白02][第三日][蓝组]钢之炼金术师组曲 :)%0a---%0a> (:title [蓝白02][第三日][蓝组] :)%0a
+host:1312462234=199.27.128.81
+author:1312378686=Admin
+diff:1312378686:1312375314:=2c2%0a%3c (:title [蓝白02][第三日][蓝组] :)%0a---%0a> (:title [蓝白02][第二日][蓝组] :)%0a
+host:1312378686=199.27.128.81
+author:1312375314=Admin
+diff:1312375314:1312375314:=1,12d0%0a%3c (:VideoStr:57919642:)%0a%3c (:title [蓝白02][第二日][蓝组] :)%0a%3c (:sourcelink:http://www.bilibili.tv/video/av122646/:)%0a%3c (:VideoType:Nor:)%0a%3c (:IsMuti::)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c [[#partinfo]]%0a%3c [[#partend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1312375314=173.245.48.87

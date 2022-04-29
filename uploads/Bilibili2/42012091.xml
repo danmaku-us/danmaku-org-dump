@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="814819026" poolid="0" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","0.40-0.70","3.80","「夢幻奇巧"]</text>
+	<attr id="0" playtime="9.2" mode="7" fontsize="25" color="16711782"/>
+</comment>
+<comment id="2143114805" poolid="0" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","0.40-0.70","3.80","　　　　　的魔術師」"]</text>
+	<attr id="0" playtime="9.2" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="2069667915" poolid="0" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.80","「夢幻奇巧"]</text>
+	<attr id="0" playtime="9.1" mode="7" fontsize="25" color="16711782"/>
+</comment>
+<comment id="1294708851" poolid="0" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.80","　　　　　的魔術師」"]</text>
+	<attr id="0" playtime="9.1" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1345386190" poolid="0" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.00","「操縱人偶"]</text>
+	<attr id="0" playtime="13.1" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1484384015" poolid="0" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.00","　　　　　的指尖」"]</text>
+	<attr id="0" playtime="13.1" mode="7" fontsize="25" color="16711782"/>
+</comment>
+<comment id="674360435" poolid="0" userhash="05a0bbce" sendtime="1341930572">
+	<text>["210","180","1.00-1.00","4.00","「喜劇"]</text>
+	<attr id="0" playtime="17.2" mode="7" fontsize="25" color="16711782"/>
+</comment>
+<comment id="1303240223" poolid="0" userhash="05a0bbce" sendtime="1341930572">
+	<text>["210","180","1.00-1.00","4.00","　　　悲劇」"]</text>
+	<attr id="0" playtime="17.2" mode="7" fontsize="25" color="0"/>
+</comment>
+<comment id="1722562819" poolid="0" userhash="05a0bbce" sendtime="1341930572">
+	<text>["223","210","1.00-1.00","4.00","「全如小醜"]</text>
+	<attr id="0" playtime="17.2" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="372682603" poolid="0" userhash="05a0bbce" sendtime="1341930572">
+	<text>["223","210","1.00-1.00","4.00","　　　　　　的戲谑」"]</text>
+	<attr id="0" playtime="17.2" mode="7" fontsize="12" color="16711782"/>
+</comment>
+<comment id="1055636623" poolid="0" userhash="05a0bbce" sendtime="1341930572">
+	<text>["133","180","1.00-1.00","3.50","「在鮮紅虛幻的夜空中」"]</text>
+	<attr id="0" playtime="21.1" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="475401727" poolid="0" userhash="05a0bbce" sendtime="1341930572">
+	<text>["133","180","1.00-1.00","3.50","　　鮮紅"]</text>
+	<attr id="0" playtime="21.1" mode="7" fontsize="25" color="16711782"/>
+</comment>
+<comment id="453423454" poolid="0" userhash="b0efd121" sendtime="1341930572">
+	<text>["150","180","0.40-0.70","3.80","「夢幻"]</text>
+	<attr id="0" playtime="206.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="941640438" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：红魔馆</text>
+	<attr id="0" playtime="10.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="590421339" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：飞刀（PAD长）</text>
+	<attr id="0" playtime="15.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2115612449" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：蝙蝠（大小姐）</text>
+	<attr id="0" playtime="17.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2069852619" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：怀表（PAD长）</text>
+	<attr id="0" playtime="21.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="168176021" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：雪花（⑨）</text>
+	<attr id="0" playtime="25.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2138589717" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：“气”（中国）</text>
+	<attr id="0" playtime="29.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="919322538" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：白楼剑和楼观剑和半灵（饼梦）</text>
+	<attr id="0" playtime="33.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1924273500" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：樱花（幽幽子）</text>
+	<attr id="0" playtime="37.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="789118116" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：竹林（永夜抄）</text>
+	<attr id="0" playtime="57.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1465690487" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：兔子（铃仙）</text>
+	<attr id="0" playtime="61.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="731477724" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：弓箭和药（师匠）</text>
+	<attr id="0" playtime="65.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1528962319" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：五个秘宝（NEET）</text>
+	<attr id="0" playtime="69.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="66787391" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：太阳花田（幽香）</text>
+	<attr id="0" playtime="73.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="179397069" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：铃兰花（梅蒂欣）</text>
+	<attr id="0" playtime="77.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="227805812" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：钱和死神（小町）</text>
+	<attr id="0" playtime="81.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1704230778" poolid="0" userhash="89ef9990" sendtime="1341930572">
+	<text>背景：彼岸花（四季映姬）</text>
+	<attr id="0" playtime="85.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1235730009" poolid="0" userhash="dc2945d5" sendtime="1341930572">
+	<text>[咲夜的世界]</text>
+	<attr id="0" playtime="118.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="898204303" poolid="0" userhash="15bea259" sendtime="1341930572">
+	<text>["204","207","1.00-1.00","4.70","「在這█████████"]</text>
+	<attr id="0" playtime="105" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="592051982" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["195","179","1.00-1.00","1.00","「盛放」"]</text>
+	<attr id="0" playtime="23.8" mode="7" fontsize="45" color="16711782"/>
+</comment>
+<comment id="226698433" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","███　　　　███"]</text>
+	<attr id="0" playtime="25.1" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1239697756" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","「前進　██　停留」"]</text>
+	<attr id="0" playtime="25.1" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1703613792" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","　　　　回轉"]</text>
+	<attr id="0" playtime="25.1" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="518736353" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["165","180","1.00-1.00","3.70","████"]</text>
+	<attr id="0" playtime="28.9" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1750375274" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["165","180","1.00-1.00","3.70","「如鏡中█████"]</text>
+	<attr id="0" playtime="28.9" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="864797038" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["165","180","1.00-1.00","3.70","　　　　時針倒轉」"]</text>
+	<attr id="0" playtime="28.9" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1353656062" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["100","180","0.00-1.00","3.80","「緊鎖夜色"]</text>
+	<attr id="0" playtime="32.9" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="869570636" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["100","180","1.00-0.00","3.80","　　　　　　　　遍撒月光」"]</text>
+	<attr id="0" playtime="32.9" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="864253059" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["175","180","1.00-1.00","4.00","████"]</text>
+	<attr id="0" playtime="36.8" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="69235467" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["175","180","1.00-1.00","4.00","「來吧」"]</text>
+	<attr id="0" playtime="36.8" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="669907586" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["280","210","1.00-1.00","4.00","████████████"]</text>
+	<attr id="0" playtime="36.8" mode="7" fontsize="16" color="1"/>
+</comment>
+<comment id="581038484" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["280","210","1.00-1.00","4.00","「在這完美的夜空中起舞」"]</text>
+	<attr id="0" playtime="36.8" mode="7" fontsize="16" color="16777215"/>
+</comment>
+<comment id="1128522622" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["160","180","1.00-1.00","7.30","「鋪滿絹花的花田」"]</text>
+	<attr id="0" playtime="40.9" mode="7" fontsize="25" color="13382502"/>
+</comment>
+<comment id="1173636723" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["160","235","0.60-0.60","7.30","「鋪滿絹花的花田」","180","180"]</text>
+	<attr id="0" playtime="40.9" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1097848553" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["160","235","1.00-1.00","7.30","「鋪滿絹花的花田」","180","180"]</text>
+	<attr id="0" playtime="40.9" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1012759808" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["160","180","1.00-1.00","3.50","███　　　███"]</text>
+	<attr id="0" playtime="48.5" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1460730459" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["160","180","1.00-1.00","3.50","「與這███舞台」"]</text>
+	<attr id="0" playtime="48.5" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1377646911" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["160","180","1.00-1.00","3.50","　　　紙糊的"]</text>
+	<attr id="0" playtime="48.5" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="446160300" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["255","202","1.00-0.40","0.50","多"]</text>
+	<attr id="0" playtime="52.3" mode="7" fontsize="45" color="16711782"/>
+</comment>
+<comment id="1843397922" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["255","202","1.00-0.40","0.50","麽"]</text>
+	<attr id="0" playtime="53.1" mode="7" fontsize="45" color="16776960"/>
+</comment>
+<comment id="1561023505" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["255","202","1.00-0.40","0.50","相"]</text>
+	<attr id="0" playtime="53.8" mode="7" fontsize="45" color="3355596"/>
+</comment>
+<comment id="1200583258" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["255","202","1.00-0.40","0.50","稱"]</text>
+	<attr id="0" playtime="53.8" mode="7" fontsize="45" color="10092339"/>
+</comment>
+<comment id="1529652990" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","█████"]</text>
+	<attr id="0" playtime="56.6" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="53338670" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","「夢幻奇巧█████"]</text>
+	<attr id="0" playtime="56.6" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="315870258" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","　　　　　的魔術師」"]</text>
+	<attr id="0" playtime="56.6" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1810160746" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","　███　　　███"]</text>
+	<attr id="0" playtime="60.6" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1197850751" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","　「操縱███指尖」"]</text>
+	<attr id="0" playtime="60.6" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1922079620" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","　　　　人偶的"]</text>
+	<attr id="0" playtime="60.6" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1504320123" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["200","180","1.00-1.00","3.80","「喜劇」"]</text>
+	<attr id="0" playtime="64.6" mode="7" fontsize="25" color="3355647"/>
+</comment>
+<comment id="1020128014" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["200","180","1.00-1.00","3.80","　　　「悲劇」"]</text>
+	<attr id="0" playtime="64.6" mode="7" fontsize="25" color="0"/>
+</comment>
+<comment id="710732380" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["220","210","1.00-1.00","3.80","「全如小醜"]</text>
+	<attr id="0" playtime="64.6" mode="7" fontsize="12" color="0"/>
+</comment>
+<comment id="1040770829" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["220","210","1.00-1.00","3.80","　　　　　　的戲谑」"]</text>
+	<attr id="0" playtime="64.6" mode="7" fontsize="12" color="3355647"/>
+</comment>
+<comment id="973003656" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["130","180","1.00-1.00","3.00","「在鮮紅虛幻的夜空中」"]</text>
+	<attr id="0" playtime="68.7" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="19809290" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["130","180","1.00-1.00","3.00","　　鮮紅"]</text>
+	<attr id="0" playtime="68.7" mode="7" fontsize="25" color="16711782"/>
+</comment>
+<comment id="456546947" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["180","180","1.00-1.00","1.00","「盛放」"]</text>
+	<attr id="0" playtime="71.5" mode="7" fontsize="45" color="3355647"/>
+</comment>
+<comment id="764961850" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["143","180","1.00-1.00","3.50","███　　　　███"]</text>
+	<attr id="0" playtime="72.5" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2142485296" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["143","180","1.00-1.00","3.50","「前進　██　停留」"]</text>
+	<attr id="0" playtime="72.5" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="937090139" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["143","180","1.00-1.00","3.50","　　　　回轉"]</text>
+	<attr id="0" playtime="72.5" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1824104764" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["163","180","1.00-1.00","3.60","████"]</text>
+	<attr id="0" playtime="76.6" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="802354529" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["163","180","1.00-1.00","3.60","「如鏡中█████"]</text>
+	<attr id="0" playtime="76.6" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1418822223" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["163","180","1.00-1.00","3.60","　　　　時針倒轉」"]</text>
+	<attr id="0" playtime="76.6" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1149665443" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["100","180","0.00-1.00","3.60","「緊鎖夜色"]</text>
+	<attr id="0" playtime="80.5" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="538184583" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["100","180","1.00-0.00","3.60","　　　　　　　　　遍撒月光」"]</text>
+	<attr id="0" playtime="80.5" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="482610295" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["177","180","1.00-1.00","4.00","████"]</text>
+	<attr id="0" playtime="84.4" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="32994299" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["177","180","1.00-1.00","4.00","「來吧」"]</text>
+	<attr id="0" playtime="84.4" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="714140495" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["278","205","1.00-1.00","4.00","████████████"]</text>
+	<attr id="0" playtime="84.4" mode="7" fontsize="16" color="1"/>
+</comment>
+<comment id="1593852584" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["278","205","1.00-1.00","4.00","「在這完美的夜空中起舞」"]</text>
+	<attr id="0" playtime="84.4" mode="7" fontsize="16" color="16777215"/>
+</comment>
+<comment id="2085199865" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["140","180","1.00-1.00","7.40","████　　　████"]</text>
+	<attr id="0" playtime="135.5" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="219355728" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["140","180","1.00-1.00","7.40","「被囚禁███是誰？」"]</text>
+	<attr id="0" playtime="135.5" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="670710228" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["140","180","1.00-1.00","7.40","　　　　的到底"]</text>
+	<attr id="0" playtime="135.5" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="863184630" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["70","180","1.00-1.00","4.00","████　　█"]</text>
+	<attr id="0" playtime="143.2" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="656688685" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["70","180","1.00-1.00","4.00","「走不出██」"]</text>
+	<attr id="0" playtime="143.2" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="458397573" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["70","180","1.00-1.00","4.00","　　　　夜色"]</text>
+	<attr id="0" playtime="143.2" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="58508486" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["293","205","1.00-1.00","4.00","██　　███"]</text>
+	<attr id="0" playtime="147.1" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="2144459434" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["293","205","1.00-1.00","4.00","「也██出來」"]</text>
+	<attr id="0" playtime="147.1" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1565387212" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["293","205","1.00-1.00","4.00","　　不想"]</text>
+	<attr id="0" playtime="147.1" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1237038161" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["95","180","1.00-1.00","4.00","█　　███"]</text>
+	<attr id="0" playtime="151.1" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1277279200" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["95","180","1.00-1.00","4.00","「██匕首」"]</text>
+	<attr id="0" playtime="151.1" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1720908284" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["95","180","1.00-1.00","4.00","　銀色"]</text>
+	<attr id="0" playtime="151.1" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="826165621" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["293","205","1.00-1.00","3.40","███　　█"]</text>
+	<attr id="0" playtime="154.9" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1119493525" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["293","205","1.00-1.00","3.40","「染紅██」"]</text>
+	<attr id="0" playtime="154.9" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2138708631" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["293","205","1.00-1.00","3.40","　　　夜空"]</text>
+	<attr id="0" playtime="154.9" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1912312717" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["53","227","1.00-1.00","4.00","█"]</text>
+	<attr id="0" playtime="159" mode="7" fontsize="45" color="1"/>
+</comment>
+<comment id="1061535955" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["53","227","1.00-1.00","4.00","月██"]</text>
+	<attr id="0" playtime="159" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="479706888" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["53","227","1.00-1.00","4.00","　時計"]</text>
+	<attr id="0" playtime="159" mode="7" fontsize="45" color="1"/>
+</comment>
+<comment id="943081749" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["181","182","1.00-1.00","0.40","深","315","0"]</text>
+	<attr id="0" playtime="163.2" mode="7" fontsize="45" color="1"/>
+</comment>
+<comment id="2024350954" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["181","182","1.00-1.00","0.40","鎖","315","0"]</text>
+	<attr id="0" playtime="163.6" mode="7" fontsize="45" color="1"/>
+</comment>
+<comment id="1312908861" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["181","182","1.00-1.00","0.40","長","315","0"]</text>
+	<attr id="0" playtime="164.4" mode="7" fontsize="45" color="1"/>
+</comment>
+<comment id="1666286173" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["181","182","1.00-1.00","0.40","夜","315","0"]</text>
+	<attr id="0" playtime="165.1" mode="7" fontsize="45" color="1"/>
+</comment>
+<comment id="862022775" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","██　　　　　███"]</text>
+	<attr id="0" playtime="173.2" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="727393432" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","「夢█████術師」"]</text>
+	<attr id="0" playtime="173.2" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1569869530" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","　　幻奇巧的魔"]</text>
+	<attr id="0" playtime="173.2" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1258961144" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","███　　　　██"]</text>
+	<attr id="0" playtime="177" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="460491036" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","「操縱████尖」"]</text>
+	<attr id="0" playtime="177" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1822355062" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","　　　人偶的指"]</text>
+	<attr id="0" playtime="177" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1752277376" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.60","　　██　██"]</text>
+	<attr id="0" playtime="181.1" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2129421227" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.60","██劇」　「悲██"]</text>
+	<attr id="0" playtime="181.1" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="494202002" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.60","「喜　　　　　劇」"]</text>
+	<attr id="0" playtime="181.1" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2055008279" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["252","210","1.00-1.00","3.60","████"]</text>
+	<attr id="0" playtime="181.3" mode="7" fontsize="16" color="16777215"/>
+</comment>
+<comment id="1274123284" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["252","210","1.00-1.00","3.60","「全如小█████"]</text>
+	<attr id="0" playtime="181.3" mode="7" fontsize="16" color="1"/>
+</comment>
+<comment id="1686724780" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["252","210","1.00-1.00","3.60","　　　　醜的戲谑」"]</text>
+	<attr id="0" playtime="181.3" mode="7" fontsize="16" color="16777215"/>
+</comment>
+<comment id="1449789228" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["110","180","1.00-1.00","4.10","█████　　　█████"]</text>
+	<attr id="0" playtime="185.1" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="96740026" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["110","180","1.00-1.00","4.10","「在鮮紅虛███空中盛放」"]</text>
+	<attr id="0" playtime="185.1" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="377289635" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["110","180","1.00-1.00","4.10","　　　　　幻的夜"]</text>
+	<attr id="0" playtime="185.1" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="920901072" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","███　　　　███"]</text>
+	<attr id="0" playtime="189.3" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="341095510" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","「前進　██　停留」"]</text>
+	<attr id="0" playtime="189.3" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="19007772" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","　　　　回轉"]</text>
+	<attr id="0" playtime="189.3" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1219087681" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","████　　███"]</text>
+	<attr id="0" playtime="193" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="504653664" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","「如鏡中██倒轉」"]</text>
+	<attr id="0" playtime="193" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1825214974" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","3.70","　　　　時針"]</text>
+	<attr id="0" playtime="193" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="530505852" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["130","180","1.00-1.00","3.70","　██　　　██"]</text>
+	<attr id="0" playtime="197" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1083751360" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["130","180","1.00-1.00","3.70","█緊鎖██　遍撒███"]</text>
+	<attr id="0" playtime="197" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="1803873169" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["130","180","1.00-1.00","3.70","「　　夜色　　　月光」"]</text>
+	<attr id="0" playtime="197" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1404306210" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","4.70","██"]</text>
+	<attr id="0" playtime="201.1" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="821035495" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","4.70","「來██"]</text>
+	<attr id="0" playtime="201.1" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="2035229123" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["150","180","1.00-1.00","4.70","　　吧」"]</text>
+	<attr id="0" playtime="201.1" mode="7" fontsize="25" color="16777215"/>
+</comment>
+<comment id="260612716" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["204","207","1.00-1.00","4.70","███"]</text>
+	<attr id="0" playtime="201.1" mode="7" fontsize="16" color="16777215"/>
+</comment>
+<comment id="1378799268" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["204","207","1.00-1.00","4.70","「在這█████████"]</text>
+	<attr id="0" playtime="201.1" mode="7" fontsize="16" color="1"/>
+</comment>
+<comment id="1365799074" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["204","207","1.00-1.00","4.70","　　　完美的夜空中起舞」"]</text>
+	<attr id="0" playtime="201.1" mode="7" fontsize="16" color="16777215"/>
+</comment>
+<comment id="1036342901" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["230","200","1.00-1.00","4.70","　　███"]</text>
+	<attr id="0" playtime="228.7" mode="7" fontsize="16" color="16777215"/>
+</comment>
+<comment id="1376560982" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["230","200","1.00-1.00","4.70","██蒲妮惠"]</text>
+	<attr id="0" playtime="228.7" mode="7" fontsize="16" color="1"/>
+</comment>
+<comment id="417765435" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["230","200","1.00-1.00","4.70","字幕"]</text>
+	<attr id="0" playtime="228.7" mode="7" fontsize="16" color="16777215"/>
+</comment>
+<comment id="1110697305" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["230","222","1.00-1.00","4.70","██"]</text>
+	<attr id="0" playtime="229" mode="7" fontsize="16" color="16777215"/>
+</comment>
+<comment id="882525648" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["230","222","1.00-1.00","4.70","翻译████"]</text>
+	<attr id="0" playtime="229" mode="7" fontsize="16" color="1"/>
+</comment>
+<comment id="9598868" poolid="1" userhash="05a0bbce" sendtime="1341930572">
+	<text>["230","222","1.00-1.00","4.70","　　提灯娃娃"]</text>
+	<attr id="0" playtime="229" mode="7" fontsize="16" color="16777215"/>
+</comment>
+</comments>

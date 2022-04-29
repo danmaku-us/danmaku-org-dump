@@ -1,0 +1,27 @@
+version=pmwiki-2.2.38 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+author=dm.mikufans@gmail.com
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1295103089
+host=221.216.1.62
+keywords=动画,MAD,天元突破,Welcome,To,The,Black,Parade,燃,弹幕万岁！！ 
+name=Bilibili2.1022
+rev=6
+targets=
+text=(:VideoStr:56832456:)%0a(:title MAD 天元突破「WELCOME TO THE BLACK PARADE」 :)%0a(:keywords 动画,MAD,天元突破,Welcome,To,The,Black,Parade,燃,弹幕万岁！！ :)%0a(:sourcelink:http://bilibili.us/video/av35827/:)%0a(:VideoType:nor:)%0a(:if false:)%0a[[#comment]]%0a燃死人不偿命%0a[[#commentend]]%0a(:ifend:)
+time=1423637039
+title=MAD 天元突破「WELCOME TO THE BLACK PARADE」 
+author:1423637039=dm.mikufans@gmail.com
+diff:1423637039:1409932044:=1c1%0a%3c (:VideoStr:56832456:)%0a---%0a> (:VideoStr:109910158:)%0a
+host:1423637039=221.216.1.62
+author:1409932044=dm.mikufans@gmail.com
+diff:1409932044:1347618735:=1c1%0a%3c (:VideoStr:109910158:)%0a---%0a> (:VideoStr:56832456:)%0a
+host:1409932044=222.131.105.70
+author:1347618735=dm.mikufans@gmail.com
+diff:1347618735:1295103742:=1c1%0a%3c (:VideoStr:56832456:)%0a---%0a> (:VideoStr:7TQjpe1stX6:)%0a5c5%0a%3c (:VideoType:nor:)%0a---%0a> (:VideoType:QQ:)%0a
+host:1347618735=121.229.114.198
+author:1295103742=aUser
+diff:1295103742:1295103106:=
+host:1295103742=180.110.99.94

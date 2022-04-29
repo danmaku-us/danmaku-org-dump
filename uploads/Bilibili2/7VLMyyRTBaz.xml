@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="2093013872" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　    未来　　　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="75.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="807189798" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　未来　　　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="75.2" mode="5" fontsize="25" color="3381759"/>
+</comment>
+<comment id="332249798" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　    　　　現世　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="75.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="702720894" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　現世　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="75.6" mode="5" fontsize="25" color="3407871"/>
+</comment>
+<comment id="60118082" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　    　　　　　　つかの　　　　　　　/n</text>
+	<attr id="0" playtime="76.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1026893340" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　つかの　　　　　　　/n</text>
+	<attr id="0" playtime="76.5" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1509820152" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　間の　　　　/n</text>
+	<attr id="0" playtime="77.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1620001345" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　間の　　　　/n</text>
+	<attr id="0" playtime="77.1" mode="5" fontsize="25" color="16738047"/>
+</comment>
+<comment id="644261957" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="78.2" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1472797948" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　▁　▁　▁　▁　▁　▁　▁　　　/n</text>
+	<attr id="0" playtime="78.2" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1636111671" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　愛　は　切　な　す　ぎ　る　　　/n</text>
+	<attr id="0" playtime="78.2" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="241775265" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　愛　は　　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="78.3" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1029045523" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　切　な　　　　　　　　　/n</text>
+	<attr id="0" playtime="79.1" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="230626012" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　す　ぎ　る　　　/n</text>
+	<attr id="0" playtime="79.5" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="721208490" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="80.5" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="646650696" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　█████　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="80.7" mode="5" fontsize="25" color="3407871"/>
+</comment>
+<comment id="644367934" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　▁▁▁▁▁　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="80.7" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1442036174" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　守　　　　　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="80.7" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1774903324" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　られたい　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="80.7" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="9415695" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　██████　　　/n</text>
+	<attr id="0" playtime="81.8" mode="5" fontsize="25" color="3407871"/>
+</comment>
+<comment id="848104219" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　▁▁▁▁▁▁　　　/n</text>
+	<attr id="0" playtime="81.8" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1089304727" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　守　　　　　　　抱　　　　　　　　/n</text>
+	<attr id="0" playtime="81.8" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2012507818" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　られたい　　　　きしめたい　　　/n</text>
+	<attr id="0" playtime="81.8" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="494997075" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="82.6" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1476083577" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　ど　　　う　　　し　　　　て　　　？　/n</text>
+	<attr id="0" playtime="82.6" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="943025159" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="83.1" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1269557714" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　ど　　う　　し　　　て　　？　　　/n</text>
+	<attr id="0" playtime="83.1" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1858654127" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　ど　　う　　し　　　て　　？　　　/n</text>
+	<attr id="0" playtime="83.1" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2098764315" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="83.4" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="862346128" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　ど　う　し　て　？　　　　　　/n</text>
+	<attr id="0" playtime="83.4" mode="5" fontsize="25" color="16724736"/>
+</comment>
+<comment id="270832166" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="83.8" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="451120927" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　ど　うして　？　　　　　　　/n</text>
+	<attr id="0" playtime="83.8" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="350713368" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="84.2" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1379635713" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　どうして？　　　　　　　　/n</text>
+	<attr id="0" playtime="84.2" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2080194044" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="84.7" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1849976643" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　▁　▁　▁　▁　▁　▁　　　　　/n</text>
+	<attr id="0" playtime="84.7" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1949073481" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　た　だ　小　さ　な　花　　　　　/n</text>
+	<attr id="0" playtime="84.7" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="469852510" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　た　だ　小　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="85.3" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="64700024" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　さ　な　　　　　　　/n</text>
+	<attr id="0" playtime="86.5" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="671209385" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　花　　　　　/n</text>
+	<attr id="0" playtime="86.9" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="2066839750" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="87.9" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="448122143" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　▁　▁　▁　▁　▁　　　　　　/n</text>
+	<attr id="0" playtime="87.9" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="585129228" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　風　に　打　た　れ　　　　　　/n</text>
+	<attr id="0" playtime="87.9" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1582031573" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　風　に　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="88.5" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="959811411" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　打　　　　　　　　　　/n</text>
+	<attr id="0" playtime="88.7" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="699936156" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　た　れ　　　　　　/n</text>
+	<attr id="0" playtime="89.2" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="690688290" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="90.4" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="2130764805" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　▁▁▁▁▁▁▁▁▁▁　　　　　/n</text>
+	<attr id="0" playtime="90.4" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="102983749" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　飛ばされないようにね　　　　　/n</text>
+	<attr id="0" playtime="90.4" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="110271282" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　飛ば　　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="90.7" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1668010312" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　され　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="91.4" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1995790735" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　ない　　　　　　　　　/n</text>
+	<attr id="0" playtime="91.6" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="739215938" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="95" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="184162109" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　▁▁▁▁▁▁▁▁▁　　　　　/n</text>
+	<attr id="0" playtime="95" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1857142252" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　この身は永久の旅人　　　　　/n</text>
+	<attr id="0" playtime="95" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="249842408" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　この　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="95.6" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="471841700" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　身は　　　　　　　　　　/n</text>
+	<attr id="0" playtime="96.2" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="881003066" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　永久の　　　　　　　/n</text>
+	<attr id="0" playtime="96.9" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1129845836" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　▁▁▁▁▁▁▁▁▁　　　　　/n</text>
+	<attr id="0" playtime="97.6" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="231664711" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　この身は永久の旅人　　　　　/n</text>
+	<attr id="0" playtime="97.6" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="391756062" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　▁▁▁▁▁▁▁▁▁▁　　　　　/n</text>
+	<attr id="0" playtime="92.6" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="271129389" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　飛ばされないよう　　　　　　　/n</text>
+	<attr id="0" playtime="92.6" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1546283678" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　飛ばされないよう　　　　　　　/n</text>
+	<attr id="0" playtime="92.6" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="125983086" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n　　　████████████　　　　　/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="100.7" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="712631205" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n　　　『Last vision for last』　　　　　/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="100.7" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1101829499" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　演唱：飛蘭　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="100.7" mode="5" fontsize="25" color="3394815"/>
+</comment>
+<comment id="17422860" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　 作詞：畑 亜貴　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="100.7" mode="5" fontsize="25" color="3381759"/>
+</comment>
+<comment id="1568282107" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　作曲＆編曲：上松範康　　/n/n/n</text>
+	<attr id="0" playtime="100.7" mode="5" fontsize="25" color="3368703"/>
+</comment>
+<comment id="974468634" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n　　　████████████　　　　　/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="102.8" mode="5" fontsize="25" color="3407871"/>
+</comment>
+<comment id="1975996505" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n　　　『Last vision for last』　　　　　/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="102.8" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1643447990" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　演唱：飛蘭　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="102.8" mode="5" fontsize="25" color="3394815"/>
+</comment>
+<comment id="464105632" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　 作詞：畑 亜貴　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="102.8" mode="5" fontsize="25" color="3381759"/>
+</comment>
+<comment id="1019964240" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　作曲＆編曲：上松範康　　/n/n/n</text>
+	<attr id="0" playtime="102.8" mode="5" fontsize="25" color="3368703"/>
+</comment>
+<comment id="18366563" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n　　　████████████　　　　　/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="104.5" mode="5" fontsize="25" color="3407871"/>
+</comment>
+<comment id="800074610" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n　　　『Last vision for last』　　　　　/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="104.5" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1825826929" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　演唱：飛蘭　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="104.5" mode="5" fontsize="25" color="3394815"/>
+</comment>
+<comment id="1903229380" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　 作詞：畑 亜貴　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="104.5" mode="5" fontsize="25" color="3381759"/>
+</comment>
+<comment id="2131460749" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　作曲＆編曲：上松範康　　/n/n/n</text>
+	<attr id="0" playtime="104.5" mode="5" fontsize="25" color="3368703"/>
+</comment>
+<comment id="78871595" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　▁▁▁▁▁▁　▁▁▁▁　　　　　/n</text>
+	<attr id="0" playtime="107.9" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1126701381" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　all day long　口ずさむ　　　　　/n</text>
+	<attr id="0" playtime="107.9" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="882753254" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　all         　　　　　　　　　　/n</text>
+	<attr id="0" playtime="108" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1982135187" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　    day     　　　　　　　　　　/n</text>
+	<attr id="0" playtime="108.6" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="804055020" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　        long　　　　　　　　　　/n</text>
+	<attr id="0" playtime="108.9" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="298539766" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　            　口ず　　　　　　　/n</text>
+	<attr id="0" playtime="109" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1973680221" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　            　　　さむ　　　　　/n</text>
+	<attr id="0" playtime="109.7" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="324557125" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="110.3" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1341079588" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　▁▁▁　▁▁▁▁　　　　　　　/n</text>
+	<attr id="0" playtime="110.3" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1222301357" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　単純な　思いやり　　　　　　　/n</text>
+	<attr id="0" playtime="110.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1779983394" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　単純な　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="110.4" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="326273017" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　思い　　　　　　　　　/n</text>
+	<attr id="0" playtime="111.8" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1919586473" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　やり　　　　　　　/n</text>
+	<attr id="0" playtime="112.1" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="391102509" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="112.8" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1390983095" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　▁▁▁▁▁▁　▁▁▁▁　　　　　/n</text>
+	<attr id="0" playtime="112.8" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="492418082" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　save me true　温もりを　　　　　/n</text>
+	<attr id="0" playtime="112.8" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="372360170" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　save        　　　　　　　　　　/n</text>
+	<attr id="0" playtime="112.8" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="2038573628" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　     me     　　　　　　　　　　/n</text>
+	<attr id="0" playtime="113.5" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1591005273" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　        true　　　　　　　　　　/n</text>
+	<attr id="0" playtime="113.8" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1492965664" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　            　温もりを　　　　　/n</text>
+	<attr id="0" playtime="114.2" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="489809325" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="115.2" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="507329923" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　▁　▁　▁　▁　▁　▁　▁　　　/n</text>
+	<attr id="0" playtime="115.2" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1508662152" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　誰　と　分　か　つ　の　？　　　/n</text>
+	<attr id="0" playtime="115.2" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1743717458" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　誰　と　分　か　つ　の　？　　　/n</text>
+	<attr id="0" playtime="115.7" mode="5" fontsize="25" color="13421568"/>
+</comment>
+<comment id="193657789" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　誰　と　分　か　つ　の　？　　　/n</text>
+	<attr id="0" playtime="116.2" mode="5" fontsize="25" color="13408512"/>
+</comment>
+<comment id="1973155968" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　誰　と　分　か　つ　の　？　　　/n</text>
+	<attr id="0" playtime="116.3" mode="5" fontsize="25" color="13395456"/>
+</comment>
+<comment id="1845040769" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　誰　と　分　か　つ　の　？　　　/n</text>
+	<attr id="0" playtime="116.9" mode="5" fontsize="25" color="13382400"/>
+</comment>
+<comment id="685982301" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　誰　と　分　か　つ　の　？　　　/n</text>
+	<attr id="0" playtime="117.2" mode="5" fontsize="25" color="13369344"/>
+</comment>
+<comment id="1644098682" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　よう　　　　　　　/n</text>
+	<attr id="0" playtime="92.6" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="377482354" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　にね　　　　　/n</text>
+	<attr id="0" playtime="93.1" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="415940410" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="118" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1492525192" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　▁▁▁▁▁▁▁▁▁　　　　　/n</text>
+	<attr id="0" playtime="118" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="179088947" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　この身は永久の旅人　　　　　/n</text>
+	<attr id="0" playtime="118" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="354333108" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="118" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="312655641" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　▁　▁　▁　▁　▁　▁　　　　/n</text>
+	<attr id="0" playtime="118" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="428797048" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　乱　さ　れ　た　夢　の　　　　/n</text>
+	<attr id="0" playtime="118" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1299459006" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　乱　さ　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="118.2" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1681986192" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　れ　た　　　　　　　　/n</text>
+	<attr id="0" playtime="118.2" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="210601271" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　夢　の　　　　/n</text>
+	<attr id="0" playtime="119" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="265509089" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="120.2" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="320820621" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　▁　▁　▁　▁　▁　▁　　　　/n</text>
+	<attr id="0" playtime="120.2" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="786266553" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　秘　密　を　返　し　て　　　　/n</text>
+	<attr id="0" playtime="120.2" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="743732183" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　秘　密　を　　　　　　　　　　/n</text>
+	<attr id="0" playtime="120.6" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="681863170" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　返　し　て　　　　/n</text>
+	<attr id="0" playtime="121.4" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1574926940" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="127.7" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1574688153" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　▁▁▁▁▁▁▁▁▁　　　　　/n</text>
+	<attr id="0" playtime="127.7" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1678285770" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　冷たいラズベリーに　　　　　/n</text>
+	<attr id="0" playtime="127.7" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="317670787" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　冷たい　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="127.7" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="492219629" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　ラズベリ　　　　　　　/n</text>
+	<attr id="0" playtime="129.2" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1169529046" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　ーに　　　　　/n</text>
+	<attr id="0" playtime="130.2" mode="5" fontsize="25" color="3407718"/>
+</comment>
+<comment id="1142248013" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="132.5" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1017429034" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　█　　　　　　　　　/n</text>
+	<attr id="0" playtime="132.5" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="955187893" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　█　　　　　　　　　/n</text>
+	<attr id="0" playtime="132.5" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="833928669" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　█　　　　　　　　　/n</text>
+	<attr id="0" playtime="132.5" mode="1" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1009580515" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　ヒリヒリと甘いよ　　　　　　/n</text>
+	<attr id="0" playtime="132.5" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1767871603" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　ヒリヒリと甘いよ　　　　　　/n</text>
+	<attr id="0" playtime="132.5" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1631884662" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　██　　　　　　/n</text>
+	<attr id="0" playtime="133.5" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="23379740" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　いよ　　　　　　/n</text>
+	<attr id="0" playtime="133.5" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1041233941" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　████　　　　　　/n</text>
+	<attr id="0" playtime="133.8" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1603297599" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　と甘いよ　　　　　　/n</text>
+	<attr id="0" playtime="133.8" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1972814084" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　██████　　　　　　/n</text>
+	<attr id="0" playtime="134.1" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="2010069823" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　ヒリと甘いよ　　　　　　/n</text>
+	<attr id="0" playtime="134.1" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="2097028292" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　████████　　　　　　/n</text>
+	<attr id="0" playtime="134.3" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1071807449" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　ヒリヒリと甘いよ　　　　　　/n</text>
+	<attr id="0" playtime="134.3" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1460061494" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="136.7" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="991681227" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　約束したはず！　　　　　　/n</text>
+	<attr id="0" playtime="136.7" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1663169343" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="137.4" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="608630220" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　約　束したはず　！　　　　　/n</text>
+	<attr id="0" playtime="137.4" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1357840565" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="137.9" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1084276790" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　約　束　したは　ず　！　　　　/n</text>
+	<attr id="0" playtime="137.9" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1639812359" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="137.8" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="324261163" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　約　束　し　た　は　ず　！　　　/n</text>
+	<attr id="0" playtime="137.8" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1837943653" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　約　束　し　た　は　ず　！　　　/n</text>
+	<attr id="0" playtime="137.8" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1250981819" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="138.4" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1955040899" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　約　束　し　た　は　ず　！　　　/n</text>
+	<attr id="0" playtime="138.4" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="109992766" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="138.7" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1430585645" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　約　束　し　た　は　ず　！　　　/n</text>
+	<attr id="0" playtime="138.7" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="746767061" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="139" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="305751256" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　約　束　し　た　は　ず　！　　　/n</text>
+	<attr id="0" playtime="139" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="395899669" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="139.4" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1464863504" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n＼Ｈｅｙ！／/n</text>
+	<attr id="0" playtime="139.4" mode="5" fontsize="36" color="3394815"/>
+</comment>
+<comment id="700693494" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n待って！　　　　　　　　　　　　束の間の/n</text>
+	<attr id="0" playtime="139.9" mode="5" fontsize="36" color="3407616"/>
+</comment>
+<comment id="37080422" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n待って！　　　　　　　　　　　　束の間の/n</text>
+	<attr id="0" playtime="139.9" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1796954667" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████　　　　　　　　　　　　████/n</text>
+	<attr id="0" playtime="140.3" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="953844921" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　待って！　　　　　　　　束の間の　　/n</text>
+	<attr id="0" playtime="140.3" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="2135462281" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n██████/n</text>
+	<attr id="0" playtime="140.7" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="671672054" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n██████/n</text>
+	<attr id="0" playtime="140.7" mode="5" fontsize="36" color="1"/>
+</comment>
+<comment id="219152246" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="140.7" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1404837933" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　待って！　　　　束の間の　　　　/n</text>
+	<attr id="0" playtime="140.7" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="782225433" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="141.1" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1170794821" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　待って！束の間の　　　　　　/n</text>
+	<attr id="0" playtime="141.1" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1590802428" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="142.2" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="346431295" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　▁　▁　▁　▁　▁　▁　▁　　　/n</text>
+	<attr id="0" playtime="142.2" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1846071943" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　愛　は　切　な　す　ぎ　る　　　/n</text>
+	<attr id="0" playtime="142.2" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1602233150" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　愛　は　　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="142.6" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1723958775" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　切　な　　　　　　　　　/n</text>
+	<attr id="0" playtime="143.2" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="977552276" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　す　ぎ　る　　　/n</text>
+	<attr id="0" playtime="143.5" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1136856837" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="144.7" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="189186148" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　█████　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="144.7" mode="5" fontsize="25" color="3407871"/>
+</comment>
+<comment id="103721214" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　▁▁▁▁▁　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="144.7" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1535218118" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　守　　　　　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="144.7" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="126560093" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　られたい　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="144.7" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1143751825" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　██████　　　/n</text>
+	<attr id="0" playtime="145.8" mode="5" fontsize="25" color="3407871"/>
+</comment>
+<comment id="111641458" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　▁▁▁▁▁▁　　　/n</text>
+	<attr id="0" playtime="145.8" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="97786360" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　守　　　　　　　抱　　　　　　　　/n</text>
+	<attr id="0" playtime="145.8" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1026584042" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　られたい　　　　きしめたい　　　/n</text>
+	<attr id="0" playtime="145.8" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1682466873" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="146.8" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1373221550" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　ど　　　う　　　し　　　　て　　　？　/n</text>
+	<attr id="0" playtime="146.8" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1913541618" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="147.2" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="810843033" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　ど　　う　　し　　　て　　？　　　/n</text>
+	<attr id="0" playtime="147.2" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1836869281" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　ど　　う　　し　　　て　　？　　　/n</text>
+	<attr id="0" playtime="147.2" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1175541347" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="147.5" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="2086051153" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　ど　う　　し　　て　？　　　　　/n</text>
+	<attr id="0" playtime="147.5" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="481223665" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="148" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="210360660" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　ど　うして　？　　　　　　　/n</text>
+	<attr id="0" playtime="148" mode="5" fontsize="25" color="16724736"/>
+</comment>
+<comment id="1926300888" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="148" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1816862809" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　　どうして？　　　　　　　　/n</text>
+	<attr id="0" playtime="148" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="308042651" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="149.2" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="478755213" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　▁▁▁▁▁▁　▁▁▁　　　　　　/n</text>
+	<attr id="0" playtime="149.2" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="985466839" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　あの綺麗な花　嵐の中　　　　　　/n</text>
+	<attr id="0" playtime="149.2" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1815638070" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　あの　　　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="149.4" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="546785757" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　あの綺麗　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="149.9" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="238438775" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　あの綺麗な花　　　　　　　　　　/n</text>
+	<attr id="0" playtime="150.3" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="80912208" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　あの綺麗な花　嵐の中　　　　　　/n</text>
+	<attr id="0" playtime="152" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1623855187" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　▁▁▁▁▁▁　▁▁▁　　　　　　/n</text>
+	<attr id="0" playtime="151.5" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1484142472" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　あの綺麗な花　嵐の中　　　　　　/n</text>
+	<attr id="0" playtime="152.3" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1516115335" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="154.3" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="398001712" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　▁▁▁▁▁▁▁▁▁▁　　　　　/n</text>
+	<attr id="0" playtime="154.3" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1686881406" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　散らされないようにと　　　　　/n</text>
+	<attr id="0" playtime="154.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1615229880" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　散ら　　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="154.9" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1162173248" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　散らされ　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="155.2" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1400774049" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　散らされない　　　　　　　　　/n</text>
+	<attr id="0" playtime="155.9" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="252356047" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　散らされないよう　　　　　　　/n</text>
+	<attr id="0" playtime="156.5" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="834302640" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　散らされないようにと　　　　　/n</text>
+	<attr id="0" playtime="157" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1629626862" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="122.5" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="1234419025" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　▁▁▁▁▁　　　▁▁▁　　　　/n</text>
+	<attr id="0" playtime="122.5" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1769968708" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　心で流した　　　涙の味　　　　/n</text>
+	<attr id="0" playtime="122.5" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="564368487" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　心で　　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="123" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="465330088" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　心で流した　　　　　　　　　　/n</text>
+	<attr id="0" playtime="123.8" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="868771133" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　▁▁▁▁▁　　　▁▁▁　　　　/n</text>
+	<attr id="0" playtime="125.1" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1956319433" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　心で流した　　　涙の味　　　　/n</text>
+	<attr id="0" playtime="125.1" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1871695171" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n████████████████████/n</text>
+	<attr id="0" playtime="159.8" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="391146634" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　█████████　　　　　　/n</text>
+	<attr id="0" playtime="159.8" mode="1" fontsize="25" color="3407871"/>
+</comment>
+<comment id="1411452165" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　震　る　が　え　い　　　　　　/n</text>
+	<attr id="0" playtime="159.8" mode="1" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1040247386" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n　　　　　　え　声　消　な　　　　　　　/n</text>
+	<attr id="0" playtime="159.8" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1997479466" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏　　　　　　　　　　　　/n</text>
+	<attr id="0" playtime="159.8" mode="1" fontsize="25" color="1"/>
+</comment>
+<comment id="724724868" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n第一次做弹幕，粗糙还请见谅，感谢所有帮助我的人。　　　　/n/n</text>
+	<attr id="0" playtime="163.8" mode="5" fontsize="18" color="13395711"/>
+</comment>
+<comment id="693260944" poolid="1" userhash="" sendtime="1341930666">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n　　    　　　　　　　　　　　　　　　　H音otaku　/n</text>
+	<attr id="0" playtime="163.8" mode="5" fontsize="18" color="3368448"/>
+</comment>
+</comments>

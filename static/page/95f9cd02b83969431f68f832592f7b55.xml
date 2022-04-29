@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parts>
+  <part name="DMF本地版" smooth="1" type="other">
+    <url>http://localhost/uploads/LocalVideo/Black.mp4</url>
+  </part>
+</parts>

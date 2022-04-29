@@ -1,0 +1,17 @@
+version=pmwiki-2.2.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1312212763
+host=199.27.128.123
+name=Bilibili2.1087
+rev=1
+targets=
+text=(:VideoStr:57775378:)%0a(:title [蓝白02][第一日][蓝组]Ur-style :)%0a(:sourcelink:http://www.bilibili.tv/video/av122646/:)%0a(:VideoType:Nor:)%0a(:IsMuti::)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a[[#partinfo]]%0a[[#partend]]%0a(:ifend:)
+time=1312212763
+title=[蓝白02][第一日][蓝组]Ur-style 
+author:1312212763=Admin
+diff:1312212763:1312212763:=1,12d0%0a%3c (:VideoStr:57775378:)%0a%3c (:title [蓝白02][第一日][蓝组]Ur-style :)%0a%3c (:sourcelink:http://www.bilibili.tv/video/av122646/:)%0a%3c (:VideoType:Nor:)%0a%3c (:IsMuti::)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c [[#partinfo]]%0a%3c [[#partend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1312212763=199.27.128.123

@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="12098812" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>おのづか こまち</text>
+	<attr id="0" playtime="139.6" mode="4" fontsize="25" color="10027008"/>
+</comment>
+<comment id="1625834673" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>
+    </text>
+	<attr id="0" playtime="140.2" mode="4" fontsize="25" color="10027059"/>
+</comment>
+<comment id="1472320235" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>三途の水先案内人</text>
+	<attr id="0" playtime="140.2" mode="4" fontsize="25" color="10027059"/>
+</comment>
+<comment id="990621078" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>四季映姬·ヤマザナドゥ</text>
+	<attr id="0" playtime="145.5" mode="4" fontsize="25" color="52479"/>
+</comment>
+<comment id="701710942" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>楽園の最高裁判長</text>
+	<attr id="0" playtime="145.5" mode="4" fontsize="25" color="52479"/>
+</comment>
+<comment id="537539478" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>藤原 妹紅</text>
+	<attr id="0" playtime="153.3" mode="4" fontsize="25" color="13369344"/>
+</comment>
+<comment id="1859759854" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>ふじわら の もこう</text>
+	<attr id="0" playtime="153.3" mode="4" fontsize="25" color="13369344"/>
+</comment>
+<comment id="104717584" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>蓬莱の人の形</text>
+	<attr id="0" playtime="153.3" mode="4" fontsize="25" color="13369344"/>
+</comment>
+<comment id="1955850855" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>上白澤 慧音</text>
+	<attr id="0" playtime="160.3" mode="4" fontsize="25" color="204"/>
+</comment>
+<comment id="2054927498" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>かみしらさわ けいね</text>
+	<attr id="0" playtime="160.3" mode="4" fontsize="25" color="204"/>
+</comment>
+<comment id="1772723093" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>知識と歴史の半獣</text>
+	<attr id="0" playtime="160.3" mode="4" fontsize="25" color="204"/>
+</comment>
+<comment id="1690195000" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>八意 永琳</text>
+	<attr id="0" playtime="168.4" mode="4" fontsize="25" color="39423"/>
+</comment>
+<comment id="297831121" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>やごころ えいりん</text>
+	<attr id="0" playtime="168.4" mode="4" fontsize="25" color="39423"/>
+</comment>
+<comment id="1260253452" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>月の頭脳</text>
+	<attr id="0" playtime="168.4" mode="4" fontsize="25" color="39423"/>
+</comment>
+<comment id="1937456163" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>蓬萊山 輝夜</text>
+	<attr id="0" playtime="173.6" mode="4" fontsize="25" color="6684927"/>
+</comment>
+<comment id="1462411099" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>ほうらいさん かぐや</text>
+	<attr id="0" playtime="173.6" mode="4" fontsize="25" color="6684927"/>
+</comment>
+<comment id="1199763009" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>永遠と須臾の罪人</text>
+	<attr id="0" playtime="173.6" mode="4" fontsize="25" color="6684927"/>
+</comment>
+<comment id="1442154175" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>梅露蘭·普莉茲姆利巴</text>
+	<attr id="0" playtime="178.7" mode="4" fontsize="15" color="16711833"/>
+</comment>
+<comment id="683777396" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>メルラン・プリズムリバー</text>
+	<attr id="0" playtime="178.7" mode="4" fontsize="15" color="16711833"/>
+</comment>
+<comment id="546946287" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>莉莉卡·普莉茲姆利巴                                      </text>
+	<attr id="0" playtime="178.7" mode="4" fontsize="15" color="13369344"/>
+</comment>
+<comment id="1154381555" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>リリカ・プリズムリバー                                     </text>
+	<attr id="0" playtime="178.7" mode="4" fontsize="15" color="13369344"/>
+</comment>
+<comment id="150195964" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                                       露娜薩·普莉茲姆利巴</text>
+	<attr id="0" playtime="178.7" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="2019739589" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                                       露娜薩·普莉茲姆利巴</text>
+	<attr id="0" playtime="178.7" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1774076911" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                                       ルナサ・プリズムリバー</text>
+	<attr id="0" playtime="178.7" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="258319962" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>米斯蒂姬·蘿蕾拉（夜雀）</text>
+	<attr id="0" playtime="182.2" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1590930122" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>ミスティア・ローレライ</text>
+	<attr id="0" playtime="182.2" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="358229866" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>もう歌しか聞こえない</text>
+	<attr id="0" playtime="182.2" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="675748042" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>
+    </text>
+	<attr id="0" playtime="184.7" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="124845987" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>
+    </text>
+	<attr id="0" playtime="184.7" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="828363444" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>莉莉 (白)                                              </text>
+	<attr id="0" playtime="184.7" mode="4" fontsize="15" color="16777164"/>
+</comment>
+<comment id="1362130177" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>リリーホワイト                                                    </text>
+	<attr id="0" playtime="184.7" mode="4" fontsize="15" color="16777164"/>
+</comment>
+<comment id="1209121670" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>春を運ぶ妖精                                     </text>
+	<attr id="0" playtime="184.7" mode="4" fontsize="15" color="16777164"/>
+</comment>
+<comment id="1943728152" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                                                 莉莉 (黑)</text>
+	<attr id="0" playtime="184.7" mode="4" fontsize="15" color="51"/>
+</comment>
+<comment id="733511906" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                                       リリーホワイト</text>
+	<attr id="0" playtime="184.7" mode="4" fontsize="15" color="51"/>
+</comment>
+<comment id="1953149982" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                                         不详-_.-</text>
+	<attr id="0" playtime="184.7" mode="4" fontsize="15" color="51"/>
+</comment>
+<comment id="836566086" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>梅蒂森·梅蘭可莉                                 </text>
+	<attr id="0" playtime="186.1" mode="4" fontsize="15" color="13434624"/>
+</comment>
+<comment id="1887597930" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>メディスン・メランコリー                                   </text>
+	<attr id="0" playtime="186.1" mode="4" fontsize="15" color="13434624"/>
+</comment>
+<comment id="1065042824" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>小さなスイートポイズン                                 </text>
+	<attr id="0" playtime="186.1" mode="4" fontsize="15" color="13434624"/>
+</comment>
+<comment id="1014172170" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                                          莉格露·奈特巴格</text>
+	<attr id="0" playtime="186.1" mode="4" fontsize="15" color="13434624"/>
+</comment>
+<comment id="844774776" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                                         リグル・ナイトバグ</text>
+	<attr id="0" playtime="186.1" mode="4" fontsize="15" color="13434624"/>
+</comment>
+<comment id="477750737" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                                         闇に蠢く光の蟲</text>
+	<attr id="0" playtime="186.1" mode="4" fontsize="15" color="13434624"/>
+</comment>
+<comment id="1702114534" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>露米亞</text>
+	<attr id="0" playtime="186.1" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="928852186" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>ルーミア</text>
+	<attr id="0" playtime="186.1" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1036490144" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>宵闇の妖怪</text>
+	<attr id="0" playtime="186.1" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="69106946" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>秋 靜葉                                  </text>
+	<attr id="0" playtime="188" mode="5" fontsize="15" color="13408512"/>
+</comment>
+<comment id="1728790728" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>秋 靜葉                                 </text>
+	<attr id="0" playtime="188" mode="4" fontsize="15" color="16750848"/>
+</comment>
+<comment id="1178865970" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>あき しずは                               </text>
+	<attr id="0" playtime="188" mode="4" fontsize="15" color="16750848"/>
+</comment>
+<comment id="1589568641" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>寂しさと終焉の象徴                         </text>
+	<attr id="0" playtime="188" mode="4" fontsize="15" color="16750848"/>
+</comment>
+<comment id="1131038277" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>              秋 穰子</text>
+	<attr id="0" playtime="188" mode="4" fontsize="15" color="16750848"/>
+</comment>
+<comment id="628794165" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                     あき みのりこ</text>
+	<attr id="0" playtime="188" mode="4" fontsize="15" color="16750848"/>
+</comment>
+<comment id="1457722588" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                  豊かさと稔りの象徴</text>
+	<attr id="0" playtime="188" mode="4" fontsize="15" color="16750848"/>
+</comment>
+<comment id="1061265648" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>蕾迪·霍瓦特蘿克</text>
+	<attr id="0" playtime="189.5" mode="4" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1832781002" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>レティ・ホワイトロック</text>
+	<attr id="0" playtime="189.5" mode="4" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1712478251" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>冬の忘れ物</text>
+	<attr id="0" playtime="189.5" mode="4" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1264028861" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                                   橙</text>
+	<attr id="0" playtime="194.4" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="2074537480" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                                 ちぇん</text>
+	<attr id="0" playtime="194.4" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="423684944" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                   妖術を扱う程度の能力</text>
+	<attr id="0" playtime="194.4" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1308563284" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>八雲 藍                               </text>
+	<attr id="0" playtime="194.4" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="919065573" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>やくも らん                           </text>
+	<attr id="0" playtime="194.4" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="618235853" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>すきま妖怪の式                        </text>
+	<attr id="0" playtime="194.4" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="18990117" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                   鈴仙·優曇華院·因幡</text>
+	<attr id="0" playtime="200.9" mode="4" fontsize="25" color="13369395"/>
+</comment>
+<comment id="1023516090" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>           レイセン・うどんげいん・イナバ</text>
+	<attr id="0" playtime="200.9" mode="4" fontsize="25" color="13369395"/>
+</comment>
+<comment id="1838407466" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                           狂気の月の兎</text>
+	<attr id="0" playtime="200.9" mode="4" fontsize="25" color="13369395"/>
+</comment>
+<comment id="2023657876" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>因幡 帝                           </text>
+	<attr id="0" playtime="200.9" mode="4" fontsize="25" color="13369395"/>
+</comment>
+<comment id="2138604344" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>いなば　てゐ                          </text>
+	<attr id="0" playtime="200.9" mode="4" fontsize="25" color="13369395"/>
+</comment>
+<comment id="1540219325" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>幸運の素兎                           </text>
+	<attr id="0" playtime="200.9" mode="4" fontsize="25" color="13369395"/>
+</comment>
+<comment id="1561155475" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>犬走 椛</text>
+	<attr id="0" playtime="204.1" mode="4" fontsize="25" color="3407820"/>
+</comment>
+<comment id="954312743" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>いぬばしり　もみじ</text>
+	<attr id="0" playtime="204.1" mode="4" fontsize="25" color="3407820"/>
+</comment>
+<comment id="2093999607" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>下っ端哨戒天狗</text>
+	<attr id="0" playtime="204.1" mode="4" fontsize="25" color="3407820"/>
+</comment>
+<comment id="1018023065" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>東風谷 早苗                           </text>
+	<attr id="0" playtime="207.5" mode="4" fontsize="25" color="3407718"/>
+</comment>
+<comment id="676560756" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>こちや　さなえ                        </text>
+	<attr id="0" playtime="207.5" mode="4" fontsize="25" color="3407718"/>
+</comment>
+<comment id="885494968" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>祀られる風の人間                      </text>
+	<attr id="0" playtime="207.5" mode="4" fontsize="25" color="3407718"/>
+</comment>
+<comment id="1489864848" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                                鍵山 雛</text>
+	<attr id="0" playtime="210.1" mode="4" fontsize="25" color="13369446"/>
+</comment>
+<comment id="1049288277" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                         かぎやま ひな</text>
+	<attr id="0" playtime="210.1" mode="4" fontsize="25" color="13369446"/>
+</comment>
+<comment id="1895411628" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                            秘神流し雛</text>
+	<attr id="0" playtime="210.1" mode="4" fontsize="25" color="13369446"/>
+</comment>
+<comment id="921000194" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>八坂 神奈子                           </text>
+	<attr id="0" playtime="215.3" mode="4" fontsize="25" color="13434624"/>
+</comment>
+<comment id="32611080" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>やさか　かなこ                       </text>
+	<attr id="0" playtime="215.3" mode="4" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1456799848" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>山坂と湖の権化                        </text>
+	<attr id="0" playtime="215.3" mode="4" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1785927678" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                            洩矢 諏訪子</text>
+	<attr id="0" playtime="215.3" mode="4" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1411767755" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                         もりや　すわこ</text>
+	<attr id="0" playtime="215.3" mode="4" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1122096235" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>                          土着神の頂点</text>
+	<attr id="0" playtime="215.3" mode="4" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1208910755" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>八雲 紫</text>
+	<attr id="0" playtime="222.9" mode="4" fontsize="25" color="10027263"/>
+</comment>
+<comment id="200930200" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>やくも ゆかり</text>
+	<attr id="0" playtime="222.9" mode="4" fontsize="25" color="10027263"/>
+</comment>
+<comment id="1293682638" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>境界の妖怪</text>
+	<attr id="0" playtime="222.9" mode="4" fontsize="25" color="10027263"/>
+</comment>
+<comment id="1609469148" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>比那名居 天子(我爱天子^ovo^)</text>
+	<attr id="0" playtime="226.9" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="415963013" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>ひななゐ てんし</text>
+	<attr id="0" playtime="226.9" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="45787087" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>非想非非想天の娘</text>
+	<attr id="0" playtime="226.9" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="1386765434" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>射命丸 文</text>
+	<attr id="0" playtime="236.9" mode="4" fontsize="25" color="6684672"/>
+</comment>
+<comment id="755495519" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>しゃめいまる あや</text>
+	<attr id="0" playtime="236.9" mode="4" fontsize="25" color="6684672"/>
+</comment>
+<comment id="2126683537" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>你是……抛弃了同伴的罪人</text>
+	<attr id="0" playtime="272.6" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="1460021580" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>不……不……我，我没有！</text>
+	<attr id="0" playtime="275.1" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="951857207" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>你为什么要逃走……为什么要抛下我们……</text>
+	<attr id="0" playtime="276.9" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="1467121619" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>这……这里是？</text>
+	<attr id="0" playtime="279.4" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="306067625" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>好久没看到月球上的兔子了呢……你还好吧？</text>
+	<attr id="0" playtime="280.3" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="2121937772" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>伸出手来吧，来到这里就什么都不用怕了</text>
+	<attr id="0" playtime="280.3" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="698672326" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>公主大人小心点啊，不要被淋湿了哦</text>
+	<attr id="0" playtime="281.7" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="1736266314" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>哼</text>
+	<attr id="0" playtime="282.9" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="1113241433" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>帝！！你居然把我的耳朵！！</text>
+	<attr id="0" playtime="283.8" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="552242187" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>是啊 能好各位在一起真是太好了</text>
+	<attr id="0" playtime="284.5" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="171689083" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>居然抛下了我们一个人在这里快乐的活着……</text>
+	<attr id="0" playtime="285.4" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="2129523330" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>不要！不要！！这不是我想做的！！</text>
+	<attr id="0" playtime="286.2" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="1255179878" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>怎么了因幡？快点跟上来呀</text>
+	<attr id="0" playtime="345.2" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="2130809745" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>就是说啊 再不跟上来可就要你甩掉了啊</text>
+	<attr id="0" playtime="345.9" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="1974528149" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>……嗯</text>
+	<attr id="0" playtime="347.3" mode="4" fontsize="15" color="10027008"/>
+</comment>
+<comment id="1853840960" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>もし私から　動くのならば</text>
+	<attr id="0" playtime="93.1" mode="4" fontsize="25" color="52479"/>
+</comment>
+<comment id="37132675" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>すべて変えるのなら　黒にする</text>
+	<attr id="0" playtime="97" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="401865091" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>流れてく　時の中ででも</text>
+	<attr id="0" playtime="92.9" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="581568478" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>気だるさが　ほらグルグル廻って</text>
+	<attr id="0" playtime="96.9" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="2111330974" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>私から　離れる心も</text>
+	<attr id="0" playtime="100.3" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="334795761" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>見えないわ　そう知らない？</text>
+	<attr id="0" playtime="103.6" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="181893832" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>自分から　動くこともなく</text>
+	<attr id="0" playtime="107" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="460267415" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>時の隙間に　流され続けて</text>
+	<attr id="0" playtime="110.5" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1120035026" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>知らないわ　周りのことなく</text>
+	<attr id="0" playtime="114.3" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1699254610" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>私は私　それだけ</text>
+	<attr id="0" playtime="117.6" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1575415784" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>夢見てる？　何も見てない？</text>
+	<attr id="0" playtime="121" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="103282827" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>語るも無駄な　自分の言葉？</text>
+	<attr id="0" playtime="124" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="905033080" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>悲しむなんて　疲れるだけよ</text>
+	<attr id="0" playtime="127.5" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="2025415271" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>何も感じず　過ごせばいいの</text>
+	<attr id="0" playtime="131" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="2096365298" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>戸惑う言葉　与えられても</text>
+	<attr id="0" playtime="134.5" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="2071940532" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>自分の心　ただ上の空</text>
+	<attr id="0" playtime="137.9" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="99089503" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>もし私から　動くのならば</text>
+	<attr id="0" playtime="141.5" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1768458624" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>すべて変えるのなら　黒にする</text>
+	<attr id="0" playtime="144.9" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1882502785" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>こんな自分に　未来はあるの？</text>
+	<attr id="0" playtime="148.4" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="437155384" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>こんな世界に　私はいるの？</text>
+	<attr id="0" playtime="152" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1241026852" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>今切ないの？今悲しいの？</text>
+	<attr id="0" playtime="155.4" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="2052578397" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>歩むことさえ　疲れるだけよ</text>
+	<attr id="0" playtime="162.3" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1779001272" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>自分の事も　わからないのまま</text>
+	<attr id="0" playtime="158.8" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="514379912" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>もし変われるのなら　白になる？</text>
+	<attr id="0" playtime="172.8" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1028204419" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>流れてく　時の中ででも</text>
+	<attr id="0" playtime="204.6" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="354008175" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>気だるさがほら　グルグル廻って</text>
+	<attr id="0" playtime="208.1" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="688697216" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>私から　離れる心も</text>
+	<attr id="0" playtime="211.5" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1855073994" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>見えないわそう　知らない？</text>
+	<attr id="0" playtime="214.8" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="733297809" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>自分から　動くこともなく</text>
+	<attr id="0" playtime="218.3" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1984257832" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>時の隙間に　流され続けて</text>
+	<attr id="0" playtime="222" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1830997009" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>知らないわ　周りのことなく</text>
+	<attr id="0" playtime="225.6" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="849073499" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>私は私　それだけ？</text>
+	<attr id="0" playtime="228.8" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1146065527" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>夢見てる？　何も見てない？</text>
+	<attr id="0" playtime="232.4" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="347982250" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>語るも無駄な　自分の言葉？</text>
+	<attr id="0" playtime="235.7" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="28923431" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>悲しむなんて　疲れるだけよ</text>
+	<attr id="0" playtime="238.9" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1431203104" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>何も感じず　過ごせばいいの</text>
+	<attr id="0" playtime="242.4" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="606566035" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>戸惑う言葉　与えられても</text>
+	<attr id="0" playtime="245.9" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1593764979" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>自分の心　ただ上の空</text>
+	<attr id="0" playtime="249.3" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="926256254" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>もし私から　動くのならば</text>
+	<attr id="0" playtime="252.7" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1689401453" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>すべて変えるのなら　黒にする</text>
+	<attr id="0" playtime="256.2" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="162284506" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>こんな自分に　未来はあるの？</text>
+	<attr id="0" playtime="259.6" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1730758884" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>こんな世界に　私はいるの？</text>
+	<attr id="0" playtime="263.2" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1715511208" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>今切ないの？今悲しいの？</text>
+	<attr id="0" playtime="266.6" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1581018092" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>自分の事も　わからないのまま</text>
+	<attr id="0" playtime="270.1" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1501610118" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>歩むことさえ　疲れるだけよ</text>
+	<attr id="0" playtime="273.6" mode="4" fontsize="15" color="52479"/>
+</comment>
+<comment id="1898739694" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>日常</text>
+	<attr id="0" playtime="7.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="786416611" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>= =</text>
+	<attr id="0" playtime="77.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="685872506" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>中国了。。</text>
+	<attr id="0" playtime="80.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="561625363" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>= =</text>
+	<attr id="0" playtime="89.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1980597649" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>自重</text>
+	<attr id="0" playtime="92.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="267953615" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>红白。。。</text>
+	<attr id="0" playtime="41.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1290899246" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>高画质。。。</text>
+	<attr id="0" playtime="117.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2101053894" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>历史的黑白。。</text>
+	<attr id="0" playtime="343.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1681621735" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>= =</text>
+	<attr id="0" playtime="146.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="866484178" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>好蒙啊</text>
+	<attr id="0" playtime="170.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1057080151" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>日常</text>
+	<attr id="0" playtime="17.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="949759087" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>不可全屏。。</text>
+	<attr id="0" playtime="36.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1145332601" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>就算在流逝的时空中仍能发现</text>
+	<attr id="0" playtime="93" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="134883149" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>你瞧只在原地打转不停</text>
+	<attr id="0" playtime="97" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="530417591" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>我那已失去的心也看不见</text>
+	<attr id="0" playtime="100.7" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="737476854" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>你能明白吗？</text>
+	<attr id="0" playtime="103.9" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1930436896" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>就算自己什麼都不做</text>
+	<attr id="0" playtime="107.3" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1751386605" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>时光仍渐渐消逝在缝隙中</text>
+	<attr id="0" playtime="111.1" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1185150010" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>周遭的一切我一概不知</text>
+	<attr id="0" playtime="114.7" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1164652398" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>我就是我 所知的仅此而已</text>
+	<attr id="0" playtime="117.9" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="18265335" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>在梦中发现了吗？还是什麼都没发见？</text>
+	<attr id="0" playtime="121.4" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="518448328" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>发现自己如何诉说也没用的真心话？</text>
+	<attr id="0" playtime="124.3" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="537657274" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>悲伤只会使自己更累 </text>
+	<attr id="0" playtime="127.7" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1563388127" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>乾脆什麼都别多想 如此度日就好</text>
+	<attr id="0" playtime="131.1" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="277090471" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>就算听到令人困惑的话语</text>
+	<attr id="0" playtime="135" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1262127916" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>我的心早已悬在半空</text>
+	<attr id="0" playtime="138.2" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1609737623" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>若我试著改变这一切的话</text>
+	<attr id="0" playtime="141.7" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="439983193" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>这一切就将化为黑暗</text>
+	<attr id="0" playtime="144.6" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="184050514" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>这样的我能有未来吗？</text>
+	<attr id="0" playtime="148.8" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="455069556" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>这样的世界能有我吗？</text>
+	<attr id="0" playtime="152.3" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1257764240" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>现在我很难过吗？ 现在我很悲伤吗？</text>
+	<attr id="0" playtime="157" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="509500897" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>就像这样连自己的事都不清楚</text>
+	<attr id="0" playtime="159.4" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="71961451" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>就算继续走下去也只会感到更累</text>
+	<attr id="0" playtime="162.7" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="283105246" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>人际关系什麼的 乾脆也别去了解了</text>
+	<attr id="0" playtime="166.1" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1523685072" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>这样的我也能改变的话</text>
+	<attr id="0" playtime="170.1" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1541035459" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>如果真的改变的话 一切能回归虚无吗？</text>
+	<attr id="0" playtime="173.2" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="740546214" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>就算在流逝的时空中仍能发现</text>
+	<attr id="0" playtime="205.2" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1008755556" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>你瞧，只在原地打转不停</text>
+	<attr id="0" playtime="208.7" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="2050070156" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>我那已失去的心也看不见</text>
+	<attr id="0" playtime="211.9" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="994475309" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>你能明白吗？</text>
+	<attr id="0" playtime="215.1" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="914223446" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>就算自己什麼都不做</text>
+	<attr id="0" playtime="218.7" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1304076047" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>时光仍渐渐消逝在缝隙中</text>
+	<attr id="0" playtime="222.2" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="669136321" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>周遭的一切我一概不知</text>
+	<attr id="0" playtime="225.9" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1402574350" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>我就是我 所知的仅此而已</text>
+	<attr id="0" playtime="229" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1732438946" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>在梦中发现了吗？还是什麼都没发见？</text>
+	<attr id="0" playtime="232.9" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="98511945" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>发现自己如何诉说也没用的真心话？</text>
+	<attr id="0" playtime="236.2" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="411620501" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>悲伤只会使自己更累</text>
+	<attr id="0" playtime="239.4" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="763211336" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>乾脆什麼都别多想 如此度日就好</text>
+	<attr id="0" playtime="242.4" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="347080724" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>就算听到令人困惑的话语</text>
+	<attr id="0" playtime="246.2" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1625862572" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text> 我的心早已悬在半空</text>
+	<attr id="0" playtime="249.2" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="574142257" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>若我试著改变这一切的话</text>
+	<attr id="0" playtime="252.9" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1406963713" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>这一切就将化为黑暗</text>
+	<attr id="0" playtime="256.3" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="754997640" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>蹉跎的时光中还能拥有未来吗？</text>
+	<attr id="0" playtime="260.2" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="789124582" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>这种地方还能让我存在吗？</text>
+	<attr id="0" playtime="263.5" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="45180940" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>如果想要描述我这个人的话</text>
+	<attr id="0" playtime="266.8" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="534054" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>以语言表达就是个「没用的废人」</text>
+	<attr id="0" playtime="270.5" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="450831606" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>我在这样的地方？</text>
+	<attr id="0" playtime="275.5" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1524432376" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>这样的时间能有我吗？</text>
+	<attr id="0" playtime="278.2" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="706964047" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text> 这样的我也能改变的话</text>
+	<attr id="0" playtime="281.3" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1697471305" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>如果真的改变的话 一切能回归虚无吗？</text>
+	<attr id="0" playtime="284.3" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="590263027" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>今天在梦中发现了吗？还是什麼都没发见？</text>
+	<attr id="0" playtime="288" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="2064146721" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>发现自己如何诉说也没用的真心话？</text>
+	<attr id="0" playtime="291.4" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1811749553" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>悲伤只会使自己更累</text>
+	<attr id="0" playtime="295.1" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1557602592" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>乾脆什麼都别多想 如此度日就好</text>
+	<attr id="0" playtime="298.3" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1362225351" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>就算听到令人困惑的话语</text>
+	<attr id="0" playtime="301.8" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1287498014" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>我的心早已悬在半空</text>
+	<attr id="0" playtime="305.2" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1108431102" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>若我试著改变这一切的话</text>
+	<attr id="0" playtime="308.7" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="228749615" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>这一切就将化为黑暗</text>
+	<attr id="0" playtime="312.1" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="21679336" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>想要行动的话 想要改变的话</text>
+	<attr id="0" playtime="315.7" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="304340599" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>一切都会毁坏 一切都会崩溃</text>
+	<attr id="0" playtime="319.5" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="793903661" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>如果我感到伤心 如果我感到悲哀</text>
+	<attr id="0" playtime="322.5" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="622374678" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>我的心是否就能回归虚无呢？</text>
+	<attr id="0" playtime="326.3" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="658601327" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>不管是你的一切 或是我的一切</text>
+	<attr id="0" playtime="329.7" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="389015501" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>甚至是所有的一切 我还完全不清楚</text>
+	<attr id="0" playtime="333.1" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1478281124" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>想张开这沉重的眼睛的话</text>
+	<attr id="0" playtime="336.6" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="1565623655" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>想毁灭一切的话 就让黑暗吞噬掉这一切！！</text>
+	<attr id="0" playtime="341.2" mode="4" fontsize="15" color="10027263"/>
+</comment>
+<comment id="45373495" poolid="1" userhash="deadbeef" sendtime="1341930305">
+	<text>無駄な時間に</text>
+	<attr id="0" playtime="260" mode="4" fontsize="15" color="6750207"/>
+</comment>
+</comments>
